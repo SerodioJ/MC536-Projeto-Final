@@ -1,9 +1,11 @@
-# Projeto final de MC536 - Cavaleiros da Query Estruturada
+# Projeto Final de MC536 
 
-## Membros:
+## Equipe Cavaleiros da Query Estruturada
 
-Willian Takayuki Ozako - 207267
+- Willian Takayuki Ozako - 207267
 
-Frederico Meletti Rappa - 216047
+- Frederico Meletti Rappa - 216047
 
-João Alberto Moreira Seródio - 218548
+- João Alberto Moreira Seródio - 218548
+
+## Resumo do Projeto
