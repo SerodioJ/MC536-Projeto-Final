@@ -1,7 +1,7 @@
 # Etapa 2 - Descrição da Proposta
 
 ## Slides da Proposta
-Os slides da proposta pode sem vistos em [slides](slides/projeto_final_apresentação.pdf).
+Os slides da proposta pode sem vistos em [slides](slides/proposta_apresentação.pdf).
 
 ## Motivação e Contexto
 
