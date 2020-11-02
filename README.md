@@ -15,3 +15,4 @@ Para isso, utilizaremos dados de diversos tipos, como CSV e grafos,e fontes dist
 
 ## Binder
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SerodioJ/MC536-Projeto-Final/master)
+[![Binder Develop](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SerodioJ/MC536-Projeto-Final/develop)
