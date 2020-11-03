@@ -1,125 +1,125 @@
 country,label,region,wb_class,gini,gdbPPPperCapita,hdi
-Algeria,DZA,"2,381,740","Arabic, French, Berber dialects",353,14610,736
-Angola,AGO,"1,246,700","Portuguese, Bantu, other African languages",427,7501,532
-Argentina,ARG,"2,736,690","Spanish, others",423,22554,836
-Armenia,ARM,"28,480",Armenian,315,8468,733
-Australia,AUS,"7,682,300",English,336,47318,935
-Austria,AUT,"83,871",German,276,48098,885
-Azerbaijan,AZE,"82,450","Azerbaijani, others",337,17500,751
-Bangladesh,BGD,"130,170","Bangla, English",321,3581,570
-Belarus,BLR,"202,900","Belarusian, Russian",265,17440,798
-Benin,BEN,"112,760","French, Fon, Yoruba, tribal languages",365,2025,480
-Bhutan,BTN,"38,394","Sharchhopka, Dzongkha, Lhotshamkha, others",387,8196,605
-Bolivia,BOL,"1,083,300","Spanish, Quechua, Aymara",466,6650,662
-Bosnia_and_Herzegovina,BIH,"51,000","Bosnian, Croatian, Serbian",362,11647,733
-Brazil,BRA,"8,459,420",Portuguese,519,15048,755
-Bulgaria,BGR,"108,610","Bulgarian, others",370,19839,782
-Burkina_Faso,BFA,"273,600","French, native African languages",395,1777,402
-Burundi,BDI,"25,680","Kirundi, French, Swahili",330,834,400
-Cambodia,KHM,"176,520","Khmer, French, English",318,3476,555
-Cameroon,CMR,"472,710","French, English, 24 African language groups",446,3246,512
-Chile,CHL,"743,532","Spanish, others",503,25415,832
-China,CHN,"9,327,489","Mandarin, Cantonese, others",462,15095,727
-Colombia,COL,"1,109,500",Spanish,522,14171,720
-Comoros,COM,"1,861","Arabic, French, Shikomoro",643,1523,503
-Costa_Rica,CRI,"51,060","Spanish, English",407,15365,766
-Croatia,HRV,"55,960",Croatian,302,23171,818
-Cuba,CUB,"106,440",Spanish,380,20649,769
-Cyprus,CYP,"9,240","Greek, Turkish, English",291,30882,850
-Democratic_Republic_of_the_Congo,COD,Republica Democratica del Congo,République démocratique du Congo,444,816,433
-Denmark,DNK,Dinamarca,Danemark,275,46976,923
-Dominican_Republic,DOM,Republica Dominicana,République dominicaine,471,15777,715
-Egypt,EGY,Egipto,Égypte,308,11849,690
-El_Salvador,SLV,El Salvador,El Salvador,435,8668,686
-Estonia,EST,Estonia,Estonie,329,29501,861
-Finland,FIN,Finlandia,Finlande,256,42654,883
-France,FRA,Francia,France,301,41181,888
-Gabon,GAB,Gabon,Gabon,415,22400,684
-Germany,DEU,Alemania,Allemagne,307,47033,916
-Ghana,GHA,Ghana,Ghana,428,4390,579
-Greece,GRC,Grecia,Grèce,342,26606,865
-Guatemala,GTM,Guatemala,Guatemala,551,7680,627
-Guinea,GIN,Guinea,Guinée,703,1281,412
-Haiti,HTI,Haiti,Haïti,608,1849,483
-Honduras,HND,Honduras,Honduras,553,4959,606
-Hungary,HUN,Hungria,Hongrie,279,26941,828
-Iceland,ISL,Islandia,Islande,240,44575,899
-India,IND,India,Inde,339,6664,609
-Indonesia,IDN,Indonesia,Indonésie,356,11633,684
-Iran,IRN,Iran (Republica Islamica del),Iran (République islamique d'),374,12833,766
-Italy,ITA,Italia,Italie,327,36191,873
-Jamaica,JAM,Jamaica,Jamaïque,455,8991,719
-Jordan,JOR,Jordania,Jordanie,354,12162,748
-Kazakhstan,KAZ,Kazajstan,Kazakhstan,264,24143,788
-Kenya,KEN,Kenya,Kenya,425,3245,548
-Kyrgyzstan,KGZ,Kirguistan,Kirghizistan,274,3363,655
-Latvia,LVA,Letonia,Lettonie,352,25740,819
-Liberia,LBR,Liberia,Libéria,382,881,430
-Lithuania,LTU,Lituania,Lituanie,379,29881,839
-Luxembourg,LUX,Luxemburgo,Luxembourg,287,100991,892
-Madagascar,MDG,Madagascar,Madagascar,441,1510,510
-Maldives,MDV,Maldivas,Maldives,374,13954,706
-Mali,MLI,Mali,Mali,330,1843,407
-Malta,MLT,Malta,Malte,277,33215,839
-Mauritania,MRT,Mauritania,Mauritanie,405,4287,506
-Mauritius,MUS,Mauricio,Maurice,359,18728,777
-Mexico,MEX,Mexico,Mexique,481,18857,756
-Morocco,MAR,Marruecos,Maroc,409,8194,628
-Mozambique,MOZ,Mozambique,Mozambique,457,1327,416
-Namibia,NAM,Namibia,Namibie,597,11786,628
-Nepal,NPL,Nepal,Népal,328,2573,548
-Netherlands,NLD,Paises Bajos,Pays-Bas,262,50339,922
-New_Zealand,NZL,Nueva Zelandia,Nouvelle-Zélande,330,36950,913
-Nicaragua,NIC,Nicaragua,Nicaragua,457,4972,631
-Niger,NER,Niger,Niger,315,1111,348
-Nigeria,NGA,Nigeria,Nigéria,430,6351,514
-Norway,NOR,Noruega,Norvège,235,70066,944
-Pakistan,PAK,Pakistan,Pakistan,300,5084,538
-Panama,PAN,Panama,Panama,519,20512,780
-Papua_New_Guinea,PNG,Papua Nueva Guinea,Papouasie-Nouvelle-Guinée,509,2834,505
-Paraguay,PRY,Paraguay,Paraguay,482,8905,679
-Peru,PER,Peru,Pérou,447,12638,734
-Philippines,PHL,Filipinas,Philippines,460,7612,668
-Poland,POL,Polonia,Pologne,327,27654,843
-Portugal,PRT,Portugal,Portugal,342,28476,830
-Qatar,QAT,Qatar,Qatar,411,145894,850
-Romania,ROU,Rumania,Roumanie,340,22319,793
-Rwanda,RWA,Rwanda,Rwanda,513,1784,483
-Senegal,SEN,Senegal,Sénégal,403,2525,485
-Serbia,SRB,Serbia,Serbie,380,14938,771
-Sierra_Leone,SLE,Sierra Leona,Sierra Leone,354,1534,413
-Singapore,SGP,Singapur,Singapour,464,82762,912
-Slovakia,SVK,Eslovaquia,Slovaquie,261,29209,844
-Slovenia,SVN,Eslovenia,Slovénie,250,32027,880
-South_Africa,ZAF,Sudafrica,Afrique du Sud,631,13321,666
-Sri_Lanka,LKA,Sri Lanka,Sri Lanka,364,11189,757
-Suriname,SUR,Suriname,Suriname,529,16623,714
-Sweden,SWE,Suecia,Suède,254,47319,907
+Algeria,DZA,Africa,Upper middle income,353,14610,736
+Angola,AGO,Africa,Lower middle income,427,7501,532
+Argentina,ARG,Americas,High income,423,22554,836
+Armenia,ARM,Europe,Upper middle income,315,8468,733
+Australia,AUS,Western Pacific,High income,336,47318,935
+Austria,AUT,Europe,High income,276,48098,885
+Azerbaijan,AZE,Europe,Upper middle income,337,17500,751
+Bangladesh,BGD,South-East Asia,Lower middle income,321,3581,570
+Belarus,BLR,Europe,Upper middle income,265,17440,798
+Benin,BEN,Africa,Low income,365,2025,480
+Bhutan,BTN,South-East Asia,Lower middle income,387,8196,605
+Bolivia,BOL,Americas,Lower middle income,466,6650,662
+Bosnia_and_Herzegovina,BIH,Europe,Upper middle income,362,11647,733
+Brazil,BRA,Americas,Upper middle income,519,15048,755
+Bulgaria,BGR,Europe,Upper middle income,370,19839,782
+Burkina_Faso,BFA,Africa,Low income,395,1777,402
+Burundi,BDI,Africa,Low income,330,834,400
+Cambodia,KHM,Western Pacific,Lower middle income,318,3476,555
+Cameroon,CMR,Africa,Lower middle income,446,3246,512
+Chile,CHL,Americas,High income,503,25415,832
+China,CHN,Western Pacific,Upper middle income,462,15095,727
+Colombia,COL,Americas,Upper middle income,522,14171,720
+Comoros,COM,Africa,Low income,643,1523,503
+Costa_Rica,CRI,Americas,Upper middle income,407,15365,766
+Croatia,HRV,Europe,High income,302,23171,818
+Cuba,CUB,Americas,Upper middle income,380,20649,769
+Cyprus,CYP,Europe,High income,291,30882,850
+Democratic_Republic_of_the_Congo,COD,Africa,Low income,444,816,433
+Denmark,DNK,Europe,High income,275,46976,923
+Dominican_Republic,DOM,Americas,Upper middle income,471,15777,715
+Egypt,EGY,Eastern Mediterranean,Lower middle income,308,11849,690
+El_Salvador,SLV,Americas,Lower middle income,435,8668,686
+Estonia,EST,Europe,High income,329,29501,861
+Finland,FIN,Europe,High income,256,42654,883
+France,FRA,Europe,High income,301,41181,888
+Gabon,GAB,Africa,Upper middle income,415,22400,684
+Germany,DEU,Europe,High income,307,47033,916
+Ghana,GHA,Africa,Lower middle income,428,4390,579
+Greece,GRC,Europe,High income,342,26606,865
+Guatemala,GTM,Americas,Upper middle income,551,7680,627
+Guinea,GIN,Africa,Low income,703,1281,412
+Haiti,HTI,Americas,Low income,608,1849,483
+Honduras,HND,Americas,Lower middle income,553,4959,606
+Hungary,HUN,Europe,High income,279,26941,828
+Iceland,ISL,Europe,High income,240,44575,899
+India,IND,South-East Asia,Lower middle income,339,6664,609
+Indonesia,IDN,South-East Asia,Lower middle income,356,11633,684
+Iran,IRN,Eastern Mediterranean,Upper middle income,374,12833,766
+Italy,ITA,Europe,High income,327,36191,873
+Jamaica,JAM,Americas,Upper middle income,455,8991,719
+Jordan,JOR,Eastern Mediterranean,Upper middle income,354,12162,748
+Kazakhstan,KAZ,Europe,Upper middle income,264,24143,788
+Kenya,KEN,Africa,Lower middle income,425,3245,548
+Kyrgyzstan,KGZ,Europe,Lower middle income,274,3363,655
+Latvia,LVA,Europe,High income,352,25740,819
+Liberia,LBR,Africa,Low income,382,881,430
+Lithuania,LTU,Europe,High income,379,29881,839
+Luxembourg,LUX,Europe,High income,287,100991,892
+Madagascar,MDG,Africa,Low income,441,1510,510
+Maldives,MDV,South-East Asia,Upper middle income,374,13954,706
+Mali,MLI,Africa,Low income,330,1843,407
+Malta,MLT,Europe,High income,277,33215,839
+Mauritania,MRT,Africa,Lower middle income,405,4287,506
+Mauritius,MUS,Africa,Upper middle income,359,18728,777
+Mexico,MEX,Americas,Upper middle income,481,18857,756
+Morocco,MAR,Eastern Mediterranean,Lower middle income,409,8194,628
+Mozambique,MOZ,Africa,Low income,457,1327,416
+Namibia,NAM,Africa,Upper middle income,597,11786,628
+Nepal,NPL,South-East Asia,Low income,328,2573,548
+Netherlands,NLD,Europe,High income,262,50339,922
+New_Zealand,NZL,Western Pacific,High income,330,36950,913
+Nicaragua,NIC,Americas,Lower middle income,457,4972,631
+Niger,NER,Africa,Low income,315,1111,348
+Nigeria,NGA,Africa,Lower middle income,430,6351,514
+Norway,NOR,Europe,High income,235,70066,944
+Pakistan,PAK,Eastern Mediterranean,Lower middle income,300,5084,538
+Panama,PAN,Americas,High income,519,20512,780
+Papua_New_Guinea,PNG,Western Pacific,Lower middle income,509,2834,505
+Paraguay,PRY,Americas,Upper middle income,482,8905,679
+Peru,PER,Americas,Upper middle income,447,12638,734
+Philippines,PHL,Western Pacific,Lower middle income,460,7612,668
+Poland,POL,Europe,High income,327,27654,843
+Portugal,PRT,Europe,High income,342,28476,830
+Qatar,QAT,Eastern Mediterranean,High income,411,145894,850
+Romania,ROU,Europe,Upper middle income,340,22319,793
+Rwanda,RWA,Africa,Low income,513,1784,483
+Senegal,SEN,Africa,Low income,403,2525,485
+Serbia,SRB,Europe,Upper middle income,380,14938,771
+Sierra_Leone,SLE,Africa,Low income,354,1534,413
+Singapore,SGP,Western Pacific,High income,464,82762,912
+Slovakia,SVK,Europe,High income,261,29209,844
+Slovenia,SVN,Europe,High income,250,32027,880
+South_Africa,ZAF,Africa,Upper middle income,631,13321,666
+Sri_Lanka,LKA,South-East Asia,Lower middle income,364,11189,757
+Suriname,SUR,Americas,Upper middle income,529,16623,714
+Sweden,SWE,Europe,High income,254,47319,907
 Switzerland,CHE,Europe,High income,285,59150,930
-Tajikistan,TJK,Tayikistan,Tadjikistan,308,2247,624
-Thailand,THA,Tailandia,Thaïlande,394,16706,726
-Togo,TGO,Togo (el),Togo,460,1567,473
-Trinidad_and_Tobago,TTO,Trinidad y Tabago,Trinité-et-Tobago,390,32432,772
-Tunisia,TUN,Tunez,Tunisie,361,11651,721
-Turkey,TUR,Turquia,Turquie,400,21198,761
-Turkmenistan,TKM,Turkmenistan,Turkménistan,408,17072,688
-Ukraine,UKR,Ucrania,Ukraine,246,8230,747
+Tajikistan,TJK,Europe,Low income,308,2247,624
+Thailand,THA,South-East Asia,Upper middle income,394,16706,726
+Togo,TGO,Africa,Low income,460,1567,473
+Trinidad_and_Tobago,TTO,Americas,High income,390,32432,772
+Tunisia,TUN,Eastern Mediterranean,Lower middle income,361,11651,721
+Turkey,TUR,Europe,Upper middle income,400,21198,761
+Turkmenistan,TKM,Europe,Upper middle income,408,17072,688
+Ukraine,UKR,Europe,Lower middle income,246,8230,747
 United_Arab_Emirates,ARE,Eastern Mediterranean,High income,360,67616,835
-Uruguay,URY,Uruguay,Uruguay,419,21944,793
-Venezuela,VEN,Venezuela (Republica Bolivariana de),Venezuela (République bolivarienne du),448,15251,762
-Zambia,ZMB,Zambia,Zambie,575,3917,586
-Zimbabwe,ZWE,Zimbabwe,Zimbabwe,501,2133,509
-Montenegro,MNE,Montenegro,Monténégro,262,16654,802
-South_Sudan,SSD,M,Africa,455,1886,467
+Uruguay,URY,Americas,High income,419,21944,793
+Venezuela,VEN,Americas,Upper middle income,448,15251,762
+Zambia,ZMB,Africa,Lower middle income,575,3917,586
+Zimbabwe,ZWE,Africa,Low income,501,2133,509
+Montenegro,MNE,Europe,Upper middle income,262,16654,802
+South_Sudan,SSD,Africa,Low income,455,1886,467
 Albania,ALB,Europe,Upper middle income,345,12484,733
-Central_African_Republic,CAF,"622,980","Sango, French, tribal languages",563,668,350
-Djibouti,DJI,Djibouti,Djibouti,400,3351,470
-Ecuador,ECU,Ecuador,Équateur,466,11788,732
-Fiji,FJI,Fiji,Fidji,428,9314,727
-Guinea-Bissau,GNB,Guinea-Bissau,Guinée-Bissau,350,1561,396
-Israel,ISR,Israel,Israël,428,34336,894
-Lesotho,LSO,Lesotho,Lesotho,542,3133,486
-Malaysia,MYS,Malasia,Malaisie,462,25833,779
-Mongolia,MNG,Mongolia,Mongolie,365,11024,727
-Spain,ESP,Espana,Espagne,337,36143,876
-Sudan,SDN,Sudan,Soudan,353,4834,473
+Central_African_Republic,CAF,Africa,Low income,563,668,350
+Djibouti,DJI,Eastern Mediterranean,Lower middle income,400,3351,470
+Ecuador,ECU,Americas,Upper middle income,466,11788,732
+Fiji,FJI,Western Pacific,Upper middle income,428,9314,727
+Guinea-Bissau,GNB,Africa,Low income,350,1561,396
+Israel,ISR,Europe,High income,428,34336,894
+Lesotho,LSO,Africa,Lower middle income,542,3133,486
+Malaysia,MYS,Western Pacific,Upper middle income,462,25833,779
+Mongolia,MNG,Western Pacific,Lower middle income,365,11024,727
+Spain,ESP,Europe,High income,337,36143,876
+Sudan,SDN,Eastern Mediterranean,Lower middle income,353,4834,473
