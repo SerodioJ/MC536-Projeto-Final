@@ -1,0 +1,177 @@
+DST,Ano,Sexo,N-spec,spec,Total
+clamidia,2012,M,33617,52979,86596
+clamidia,2013,M,31750,55547,87297
+clamidia,2014,M,29160,58019,87179
+clamidia,2015,M,-,-,-
+clamidia,2016,M,-,-,-
+clamidia,2017,M,-,-,-
+clamidia,2018,M,-,-,-
+clamidia,2019,M,-,-,-
+clamidia,2012,F,74188,47532,121720
+clamidia,2013,F,71911,50701,122612
+clamidia,2014,F,68983,53327,122310
+clamidia,2015,F,-,-,-
+clamidia,2016,F,-,-,-
+clamidia,2017,F,-,-,-
+clamidia,2018,F,-,-,-
+clamidia,2019,F,-,-,-
+gonorreia,2012,M,195,18996,19191
+gonorreia,2013,M,328,22382,22710
+gonorreia,2014,M,332,27514,27846
+gonorreia,2015,M,-,-,-
+gonorreia,2016,M,-,-,-
+gonorreia,2017,M,-,-,-
+gonorreia,2018,M,-,-,-
+gonorreia,2019,M,-,-,-
+gonorreia,2012,F,402,7315,7717
+gonorreia,2013,F,425,8056,8481
+gonorreia,2014,F,438,8874,9312
+gonorreia,2015,F,-,-,-
+gonorreia,2016,F,-,-,-
+gonorreia,2017,F,-,-,-
+gonorreia,2018,F,-,-,-
+gonorreia,2019,F,-,-,-
+herpes genital,2012,M,139,12188,12327
+herpes genital,2013,M,346,12451,12797
+herpes genital,2014,M,391,12143,12534
+herpes genital,2015,M,-,-,-
+herpes genital,2016,M,-,-,-
+herpes genital,2017,M,-,-,-
+herpes genital,2018,M,-,-,-
+herpes genital,2019,M,-,-,-
+herpes genital,2012,F,491,20060,20551
+herpes genital,2013,F,1056,20455,21511
+herpes genital,2014,F,1207,20389,21596
+herpes genital,2015,F,-,-,-
+herpes genital,2016,F,-,-,-
+herpes genital,2017,F,-,-,-
+herpes genital,2018,F,-,-,-
+herpes genital,2019,F,-,-,-
+Mycoplasma genitalium,2012,M,-,-,-
+Mycoplasma genitalium,2013,M,-,-,-
+Mycoplasma genitalium,2014,M,-,-,-
+Mycoplasma genitalium,2015,M,-,-,-
+Mycoplasma genitalium,2016,M,-,-,-
+Mycoplasma genitalium,2017,M,-,-,-
+Mycoplasma genitalium,2018,M,-,-,-
+Mycoplasma genitalium,2019,M,-,-,-
+Mycoplasma genitalium,2012,F,-,-,-
+Mycoplasma genitalium,2013,F,-,-,-
+Mycoplasma genitalium,2014,F,-,-,-
+Mycoplasma genitalium,2015,F,-,-,-
+Mycoplasma genitalium,2016,F,-,-,-
+Mycoplasma genitalium,2017,F,-,-,-
+Mycoplasma genitalium,2018,F,-,-,-
+Mycoplasma genitalium,2019,F,-,-,-
+Não especificada,2012,M,146,46973,47119
+Não especificada,2013,M,383,42228,42611
+Não especificada,2014,M,332,39703,40035
+Não especificada,2015,M,-,-,-
+Não especificada,2016,M,-,-,-
+Não especificada,2017,M,-,-,-
+Não especificada,2018,M,-,-,-
+Não especificada,2019,M,-,-,-
+Não especificada,2012,F,92,7067,7159
+Não especificada,2013,F,308,6873,7181
+Não especificada,2014,F,336,7085,7421
+Não especificada,2015,F,-,-,-
+Não especificada,2016,F,-,-,-
+Não especificada,2017,F,-,-,-
+Não especificada,2018,F,-,-,-
+Não especificada,2019,F,-,-,-
+DIP,2012,M,411,6621,7032
+DIP,2013,M,908,6884,7792
+DIP,2014,M,873,6704,7577
+DIP,2015,M,-,-,-
+DIP,2016,M,-,-,-
+DIP,2017,M,-,-,-
+DIP,2018,M,-,-,-
+DIP,2019,M,-,-,-
+DIP,2012,F,358,14607,14965
+DIP,2013,F,624,14079,14703
+DIP,2014,F,626,13924,14550
+DIP,2015,F,-,-,-
+DIP,2016,F,-,-,-
+DIP,2017,F,-,-,-
+DIP,2018,F,-,-,-
+DIP,2019,F,-,-,-
+DIP (clamidia),2012,M,5,493,498
+DIP (clamidia),2013,M,2,565,567
+DIP (clamidia),2014,M,3,521,524
+DIP (clamidia),2015,M,-,-,-
+DIP (clamidia),2016,M,-,-,-
+DIP (clamidia),2017,M,-,-,-
+DIP (clamidia),2018,M,-,-,-
+DIP (clamidia),2019,M,-,-,-
+DIP (clamidia),2012,F,21,1635,1656
+DIP (clamidia),2013,F,31,1614,1645
+DIP (clamidia),2014,F,22,1554,1576
+DIP (clamidia),2015,F,-,-,-
+DIP (clamidia),2016,F,-,-,-
+DIP (clamidia),2017,F,-,-,-
+DIP (clamidia),2018,F,-,-,-
+DIP (clamidia),2019,F,-,-,-
+DIP (gonorriea),2012,M,0,115,115
+DIP (gonorriea),2013,M,1,148,149
+DIP (gonorriea),2014,M,2,149,151
+DIP (gonorriea),2015,M,-,-,-
+DIP (gonorriea),2016,M,-,-,-
+DIP (gonorriea),2017,M,-,-,-
+DIP (gonorriea),2018,M,-,-,-
+DIP (gonorriea),2019,M,-,-,-
+DIP (gonorriea),2012,F,6,362,368
+DIP (gonorriea),2013,F,9,375,384
+DIP (gonorriea),2014,F,15,413,428
+DIP (gonorriea),2015,F,-,-,-
+DIP (gonorriea),2016,F,-,-,-
+DIP (gonorriea),2017,F,-,-,-
+DIP (gonorriea),2018,F,-,-,-
+DIP (gonorriea),2019,F,-,-,-
+sifilis,2012,M,17,2715,2732
+sifilis,2013,M,40,2987,3027
+sifilis,2014,M,42,4108,4150
+sifilis,2015,M,-,-,-
+sifilis,2016,M,-,-,-
+sifilis,2017,M,-,-,-
+sifilis,2018,M,-,-,-
+sifilis,2019,M,-,-,-
+sifilis,2012,F,10,272,282
+sifilis,2013,F,26,292,318
+sifilis,2014,F,29,268,297
+sifilis,2015,F,-,-,-
+sifilis,2016,F,-,-,-
+sifilis,2017,F,-,-,-
+sifilis,2018,F,-,-,-
+sifilis,2019,F,-,-,-
+verrugas genitais,2012,M,624,40662,41286
+verrugas genitais,2013,M,976,41501,42477
+verrugas genitais,2014,M,980,39905,40885
+verrugas genitais,2015,M,-,-,-
+verrugas genitais,2016,M,-,-,-
+verrugas genitais,2017,M,-,-,-
+verrugas genitais,2018,M,-,-,-
+verrugas genitais,2019,M,-,-,-
+verrugas genitais,2012,F,801,33771,34572
+verrugas genitais,2013,F,1214,33327,34541
+verrugas genitais,2014,F,1114,31723,32837
+verrugas genitais,2015,F,-,-,-
+verrugas genitais,2016,F,-,-,-
+verrugas genitais,2017,F,-,-,-
+verrugas genitais,2018,F,-,-,-
+verrugas genitais,2019,F,-,-,-
+outras,2012,M,175,14498,14673
+outras,2013,M,265,14132,14397
+outras,2014,M,337,14076,14413
+outras,2015,M,-,-,-
+outras,2016,M,-,-,-
+outras,2017,M,-,-,-
+outras,2018,M,-,-,-
+outras,2019,M,-,-,-
+outras,2012,F,304,11404,11708
+outras,2013,F,397,10975,11372
+outras,2014,F,494,10519,11013
+outras,2015,F,-,-,-
+outras,2016,F,-,-,-
+outras,2017,F,-,-,-
+outras,2018,F,-,-,-
+outras,2019,F,-,-,-
