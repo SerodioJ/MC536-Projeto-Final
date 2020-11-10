@@ -11,7 +11,7 @@
 ## Resumo do Projeto
 Criar visualização relacionando o número de casos de *DSTs* em um país com aspectos socioeconômicos, como o grau de escolaridade e a renda per capita, e medidas públicas relacionadas ao combate das *DSTs* e, assim, tentar ver graficamente posssíveis correlações e apontar possíveis medidas efetivas ao combate das *ISTs*.
 
-Para isso, utilizaremos dados de diversos tipos, como CSV e grafos,e fontes distintas, como o site da OMS e o site do governo do Reino Unido.
+Para isso, utilizaremos dados de diversos tipos, como CSV, grafos e arquivos hierárquicos (JSON),e fontes distintas, como o site da OMS (WHO em inglês), site do governo do Reino Unido e da DBpedia.
 
 ## Binder
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SerodioJ/MC536-Projeto-Final/master)
