@@ -1,0 +1,227 @@
+id,policy,type
+P1,Country adopted 2015 WHO guidelines recommendations on HIV testing services,law
+P2,Country has a national policy on HIV self-testing,law
+P3,Law specifying HIV testing solely performed based on voluntary and informed consent,law
+P4,Law specifying HIV testing is mandatory before marriage,law
+P5,Law specifying HIV testing is mandatory to obtain a work or residence permit,law
+P6,Law specifying HIV testing is mandatory for certain groups: National authorities,law
+P7,Law specifying HIV testing is mandatory for certain groups: Civil society,law
+P8,Criminalization of vertical transmission of HIV,law
+P9,Policies requiring healthcare settings to provide timely and quality healthcare regardless of any grounds for national authorities,law
+P10,Policies requiring healthcare settings to provide timely and quality healthcare regardless of any grounds for the civil society,law
+P11,Interventions targeting healthcare workers on human rights and gender-based violence,law
+P12,"Laws criminalizing transmission of, non-disclosure of or exposure to HIV transmission",law
+P13,"Laws restricting entry, stay and residence of people living with HIV",law
+P14,Laws requiring parental consent for adolescents to access sexual and reproductive health services,law
+P15,Laws requiring parental consent for adolescents to access HIV testing,law
+P16,Laws requiring parental consent for adolescents to access HIV treatment,law
+P17,Laws requiring spousal consent for married women to access sexual and reproductive health services,law
+P18,Laws requiring spousal consent for married women to access HIV testing,law
+P19,Health facilities delivering integrated services: HIV counselling and testing with SRH,law
+P20,Health facilities delivering integrated services: HIV treatment and care with SRH,law
+P21,Health facilities delivering integrated services: HIV counselling and testing with TB services,law
+P22,Health facilities delivering integrated services: TB screening in HIV services,law
+P23,Health facilities delivering integrated services: ART and TB treatment,law
+P24,Health facilities delivering integrated services: HIV and hepatitis C treatment,law
+P25,Health facilities delivering integrated services: HIV counselling and testing and chronic NCDs,law
+P26,Health facilities delivering integrated services: ART and chronic NCDs,law
+P27,Health facilities delivering integrated services: HIV counselling and testing and general outpatient care,law
+P28,Health facilities delivering integrated services: ART and general outpatient care,law
+P29,Health facilities delivering integrated services: Violence screening and mitigation with HIV services,law
+P30,Health facilities delivering integrated services: HIV testing and counselling with cervical cancer screening and treatment,law
+P31,Health facilities delivering integrated services: Cervical cancer screening with HIV services,law
+P32,Health facilities delivering integrated services: PMTCT with antenatal care / maternal and child health,law
+P33,Health facilities delivering integrated services: HIV treatment and care with nutrition support,law
+P34,Health facilities delivering integrated services: HIV testing with child health services,law
+P35,Health facilities delivering integrated services: HIV treatment and care with child health services,law
+P36,Health facilities delivering integrated services: HIV and harm reduction services,law
+P37,National strategy/policy guiding AIDS response,law
+P38,National HIV strategy/policy reviewed in last 2 years,law
+P39,National AIDS strategy/policy includes gender-transformative interventions,law
+P40,National AIDS strategy/policy includes dedicated budget for gender transformative interventions,law
+P41,Deaths must be reported using a standard death report form that includes cause of death,law
+P42,Individual-level data on reported deaths can be reported directly to the country's national HIV case reporting system,law
+P43,Individual-level data on reported deaths can be linked to the country's national HIV case reporting system,law
+P44,Country adapted 2018 WHO consolidated guidelines on ARV use for treating and preventing HIV infection,law
+P45,Country adopted WHO 2017 recommendation on rapid initiation on ART,law
+P46,Possible to start ART on the same day as HIV diagnosis,law
+P47,Country adopted WHO 2017 recommendation to offer interventions for advanced HIV disease,law
+P48,Implementation status of recommended interventions for advanced HIV disease,law
+P49,Country has a policy on retesting HIV-negative women during pregnancy/delivery and/or the post-partum/breastfeeding period,law
+P50,"Laws requiring parental consent for adolescents to access contraceptives, including condoms",law
+P51,Process exists to deem adolescents mature to access contraceptives without parental consent,law
+P52,Process exists to deem adolescents mature to access HIV testing without parental consent,law
+P53,Process exists to deem adolescents mature to access HIV treatment without parental consent,law
+P54,Percentage of clients with access to CD4 testing for immunological staging,law
+P55,National guidelines recommend ART for All people living with HIV with active TB,treatment
+P56,National guidelines recommend ART for All people living with HIV with hepatitis B and severe liver disease,treatment
+P57,National guidelines recommend ART for The HIV-positive partner in serodiscordant couples,treatment
+P58,National guidelines recommend ART for All people living with HIV identified as being in key populations,treatment
+P59,Nurse-initiated ART allowed for Non-pregnant adults,treatment
+P60,Nurse-initiated ART allowed for Pregnant women,treatment
+P61,Nurse-initiated ART allowed for Adolescents (10-19 years old),treatment
+P62,Nurse-initiated ART allowed for Children younger than 10 years old,treatment
+P63,Nurse-initiated ART allowed for None of the above,treatment
+P64,ART provided in TB clinics,treatment
+P65,ART providers provide TB treatment in ART settings,treatment
+P66,MNCH services providers provide ART in MNCH clinics,treatment
+P67,"Nutrition assessment, counselling and support to malnourished people living with HIV",treatment
+P68,ART in settings providing OST,treatment
+P69,ART provided in primary health care settings,treatment
+P70,Patient support,treatment
+P71,ART delivered in the community,treatment
+P72,Cardiovascular disease screening/management by ART providers,treatment
+P73,Mental health screening/treatment by ART providers,treatment
+P74,Country has a national policy/ strategy on linking HIV testing and counselling and enrolment in care,treatment
+P75,Country adapted 2016 WHO consolidated guidelines recommendations: adult antiretroviral therapy,treatment
+P76,Country adapted 2016 WHO consolidated guidelines recommendations: PMTCT,treatment
+P77,Country adapted 2016 WHO consolidated guidelines recommendations: pediatric antiretroviral therapy,treatment
+P78,Country adapted 2016 WHO consolidated guidelines recommendations: operational/service delivery,treatment
+P79,Recommended ART CD4 initiation threshold in adults and adolescents,treatment
+P80,Implementation status of recommended ART CD4 initiation threshold,treatment
+P81,Planned adoption of treat all recommendation (countries where not already adopted),treatment
+P82,Planned year for adoption of treat all recommendation (countries where not already adopted),treatment
+P83,Point-of-care CD4 technology used,treatment
+P84,Percentage of primary healthcare facilitates with access to CD4 cell count testing (nearby or referral),treatment
+P85,Policy promoting community ART delivery,treatment
+P86,ART provided in community settings for people stable on ART,treatment
+P87,Implementation of ART provision in community settings for people stable on ART,treatment
+P88,Policy on prioritization of people with advanced HIV disease,treatment
+P89,Policy on frequency of clinic visits for people stable on ART,treatment
+P90,Frequency of clinic visits for people stable on ART in policy,treatment
+P91,Policy on frequency of ART pick-up for people stable on ART,treatment
+P92,Frequency of ART pick-up for people stable on ART in policy,treatment
+P93,Country has a national plan for eliminating HIV MTCT,treatment
+P94,Recommended PMTCT regimen,treatment
+P95,Recommended first-line ART regimen for pregnant and breastfeeding women living with HIV,treatment
+P96,Health facilities delivering integrated services: HIV counselling and testing with SRH,treatment
+P97,Health facilities delivering integrated services: HIV treatment and care with SRH,treatment
+P98,Health facilities delivering integrated services: HIV counselling and testing with TB services,treatment
+P99,Health facilities delivering integrated services: TB screening in HIV services,treatment
+P100,Health facilities delivering integrated services: ART and TB treatment,treatment
+P101,Health facilities delivering integrated services: HIV and hepatitis C treatment,treatment
+P102,Health facilities delivering integrated services: HIV counselling and testing and chronic NCDs,treatment
+P103,Health facilities delivering integrated services: ART and chronic NCDs,treatment
+P104,Health facilities delivering integrated services: HIV counselling and testing and general outpatient care,treatment
+P105,Health facilities delivering integrated services: ART and general outpatient care,treatment
+P106,Health facilities delivering integrated services: Violence screening and mitigation with HIV services,treatment
+P107,Health facilities delivering integrated services: HIV testing and counselling with cervical cancer screening and treatment,treatment
+P108,Health facilities delivering integrated services: Cervical cancer screening with HIV services,treatment
+P109,Health facilities delivering integrated services: PMTCT with antenatal care / maternal and child health,treatment
+P110,Health facilities delivering integrated services: HIV treatment and care with nutrition support,treatment
+P111,Health facilities delivering integrated services: HIV testing with child health services,treatment
+P112,Health facilities delivering integrated services: HIV treatment and care with child health services,treatment
+P113,Health facilities delivering integrated services: HIV and harm reduction services,treatment
+P114,Country adapted 2018 WHO consolidated guidelines on ARV use for treating and preventing HIV infection,treatment
+P115,Country adopted WHO 2017 recommendation on rapid initiation on ART,treatment
+P116,Possible to start ART on the same day as HIV diagnosis,treatment
+P117,Country adopted WHO 2017 recommendation to offer interventions for advanced HIV disease,treatment
+P118,Implementation status of recommended interventions for advanced HIV disease,treatment
+P119,Implementation status of same day start of ART,treatment
+P120,Availability of CD4 testing for immunological staging,treatment
+P121,Percentage of clients with access to CD4 testing for immunological staging,treatment
+P122,Testing approaches used Client-initiated testing and counselling,testing
+P123,Testing approaches used Provider-initiated testing and counselling,testing
+P124,Testing approaches used Routine antenatal testing,testing
+P125,Testing approaches used Community-based testing and counselling,testing
+P126,Testing approaches used Home testing,testing
+P127,Testing approaches used Lay provider testing,testing
+P128,Testing approaches used Self-testing,testing
+P129,Testing approaches used Assisted partner notification/index testing,testing
+P130,Testing approaches used Other,testing
+P131,Testing approaches used Social network-based testing,testing
+P132,Period(s) when retesting is done: During pregnancy,testing
+P133,Period(s) when retesting is done: At delivery,testing
+P134,Period(s) when retesting is done: Post-partum/breastfeeding,testing
+P135,Country adopted 2015 WHO guidelines recommendations on HIV testing services,testing
+P136,Country has a national policy on HIV self-testing,testing
+P137,Self-testing implemented (in countries with a national self-testing policy),testing
+P138,Planned to include self-testing in national policy (countries where not already included),testing
+P139,Assisted HIV partner notification included in national policy,testing
+P140,Planned to include assisted HIV partner notification in national policy (countries where not already included),testing
+P141,"Policy on HIV testing provision free to all, free to some or at a cost",testing
+P142,Law specifying HIV testing solely performed based on voluntary and informed consent,testing
+P143,Law specifying HIV testing is mandatory before marriage,testing
+P144,Law specifying HIV testing is mandatory to obtain a work or residence permit,testing
+P145,Law specifying HIV testing is mandatory for certain groups: National authorities,testing
+P146,Law specifying HIV testing is mandatory for certain groups: Civil society,testing
+P147,Country has a national policy/ strategy on linking HIV testing and counselling and enrolment in care,testing
+P148,Country adapted 2016 WHO consolidated guidelines recommendations: adult antiretroviral therapy,testing
+P149,National STI treatment guidelines or recommendations,testing
+P150,National strategy/action plan for STI prevention and control,testing
+P151,Gonococcal antimicrobial resistance monitoring conducted,testing
+P152,National definition for congenital syphilis includes stillbirths,testing
+P153,National strategy/policy guiding AIDS response,testing
+P154,National HIV strategy/policy reviewed in last 2 years,testing
+P155,National AIDS strategy/policy includes gender-transformative interventions,testing
+P156,National AIDS strategy/policy includes dedicated budget for gender transformative interventions,testing
+P157,Completeness of death reporting to civil registration and vital statistics system,testing
+P158,Deaths must be reported using a standard death report form that includes cause of death,testing
+P159,Individual-level data on reported deaths can be reported directly to the country's national HIV case reporting system,testing
+P160,Individual-level data on reported deaths can be linked to the country's national HIV case reporting system,testing
+P161,Country adapted 2018 WHO consolidated guidelines on ARV use for treating and preventing HIV infection,testing
+P162,Country adopted WHO 2017 recommendation on rapid initiation on ART,testing
+P163,Possible to start ART on the same day as HIV diagnosis,testing
+P164,Country adopted WHO 2017 recommendation to offer interventions for advanced HIV disease,testing
+P165,Implementation status of recommended interventions for advanced HIV disease,testing
+P166,Country has a policy on retesting HIV-negative women during pregnancy/delivery and/or the post-partum/breastfeeding period,testing
+P167,"Travel-related mandatory HIV testing and HIV-related restrictions on entry, stay and residence (by group)",testing
+P168,"Travel-related mandatory HIV testing and HIV-related restrictions on entry, stay and residence: HIV testing required for work permit",testing
+P169,"Travel-related mandatory HIV testing and HIV-related restrictions on entry, stay and residence: HIV testing required for study permit",testing
+P170,Condom strategy/plan addresses needs and targeted condom programming for General public,prevention
+P171,Condom strategy/plan addresses needs and targeted condom programming for Men who have sex with men,prevention
+P172,Condom strategy/plan addresses needs and targeted condom programming for People living with HIV,prevention
+P173,Condom strategy/plan addresses needs and targeted condom programming for People who inject drugs,prevention
+P174,Condom strategy/plan addresses needs and targeted condom programming for People with STIs,prevention
+P175,Condom strategy/plan addresses needs and targeted condom programming for Prisoners,prevention
+P176,Condom strategy/plan addresses needs and targeted condom programming for Sex workers (male and female),prevention
+P177,Condom strategy/plan addresses needs and targeted condom programming for Young people,prevention
+P178,Condom strategy/plan includes Free distribution to key populations,prevention
+P179,Condom strategy/plan includes Subsidized condom marketing,prevention
+P180,Condom strategy/plan includes Private sector sales,prevention
+P181,Condom strategy/plan includes Condom promotion through mass media,prevention
+P182,Condom strategy/plan includes Condom promotion in (secondary) schools,prevention
+P183,Condom strategy/plan includes Condom distribution in (secondary) schools,prevention
+P184,Condom strategy/plan includes Condom promotion through outreach to communities with high HIV incidence,prevention
+P185,Coinfection policies: IPT or latent TB infection prophylaxis for people living with HIV,prevention
+P186,Coinfection policies: Intensified TB case finding among people living with HIV,prevention
+P187,Coinfection policies: TB infection control in HIV health-care settings,prevention
+P188,Coinfection policies: Co-trimoxazole prophylaxis,prevention
+P189,Coinfection policies: Hepatitis B screening and management in ART clinics,prevention
+P190,Coinfection policies: Hepatitis C screening and management in ART clinics,prevention
+P191,Coinfection policies: Hepatitis B vaccination provided at ART clinics,prevention
+P192,Coinfection policies: Hepatitis C treatment provided in ART clinics,prevention
+P193,National AIDS strategy/policy addresses Adolescent key populations,prevention
+P194,National AIDS strategy/policy addresses Men who have sex with men,prevention
+P195,National AIDS strategy/policy addresses People in prisons and other closed settings,prevention
+P196,National AIDS strategy/policy addresses People who inject drugs,prevention
+P197,National AIDS strategy/policy addresses Sex workers (male and female),prevention
+P198,National AIDS strategy/policy addresses Transgender people,prevention
+P199,National AIDS strategy/policy addresses Non-displaced people affected by emergencies,prevention
+P200,National AIDS strategy/policy addresses Refugees,prevention
+P201,National AIDS strategy/policy addresses Internally displaced people,prevention
+P202,National AIDS strategy/policy addresses Migrants and asylum-seekers,prevention
+P203,National AIDS strategy/policy Includes plans/activities addressing needs of key populations,prevention
+P204,National AIDS strategy/policy Includes plans/activities addressing needs of young women and girls,prevention
+P205,National AIDS strategy/policy Draws on most recent evidence,prevention
+P206,National AIDS strategy/policy Integrated inputs from a multisectoral process,prevention
+P207,Policy in place for provider-initiated condom promotion and distribution for all people of reproductive age visiting a health facility,prevention
+P208,Policy in place for provider-initiated condom promotion and distribution for all key populations and other people at higher risk of HIV infection,prevention
+P209,Policy in place for provider-initiated condom promotion and distribution for all young people who are sexually active,prevention
+P210,Policy in place for provider-initiated condom promotion and distribution for all people accessing HIV testing services,prevention
+P211,Policy in place for provider-initiated condom promotion and distribution for all people accessing hormonal or other methods of contraception,prevention
+P212,Policy in place for provider-initiated condom promotion and distribution for all serodiscordant couples,prevention
+P213,No policy in place for provider-initiated condom promotion and distribution in place ,prevention
+P214,National condom strategy/plan,prevention
+P215,National condom needs have been estimated,prevention
+P216,Prosecution/punishment of individuals for carrying condoms,prevention
+P217,Age restrictions for accessing condoms,prevention
+P218,Restrictions on condom distribution in public places,prevention
+P219,National condom stock-outs in the past 12 months,prevention
+P220,Local condom stock-outs in the past 12 months,prevention
+P221,Number of male condoms distributed in the previous calendar year: total,prevention
+P222,Number of male condoms distributed in the previous calendar year: public providers,prevention
+P223,Number of female condoms distributed in the previous calendar year: total,prevention
+P224,Number of female condoms distributed in the previous calendar year: public providers,prevention
+P225,National STI treatment guidelines or recommendations,prevention
+P226,National strategy/action plan for STI prevention and control,prevention
