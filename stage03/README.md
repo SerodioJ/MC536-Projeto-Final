@@ -1,7 +1,7 @@
 # Etapa 3 - Primeiros Modelos e Análises
 
 ## Slides da Proposta
-Os slides da proposta pode sem vistos em [slides](slides/proposta_apresentação.pdf).
+Os slides da proposta pode sem vistos em [slides](../stage02/slides/proposta_apresentação.pdf).
 
 ## Motivação e Contexto
 Visualizar possíveis correlações entre o número de casos de DSTs, aspectos socioeconômicos e políticas públicas, a fim de determinar fatores chave no controle de novos casos.
