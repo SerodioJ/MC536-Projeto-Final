@@ -1,171 +1,171 @@
 country,label,region,wb_class,gini,gdbPPPperCapita,hdi,populationTotal
-Algeria,DZA,Africa,Upper middle income,353,14610,736,40400000
-Argentina,ARG,Americas,High income,423,22554,836,43417000
-Armenia,ARM,Europe,Upper middle income,315,8468,733,2998600
-Austria,AUT,Europe,High income,276,48098,885,8725931
-Azerbaijan,AZE,Europe,Upper middle income,337,17500,751,9754830
-Bangladesh,BGD,South-East Asia,Lower middle income,321,3581,570,168957745
-Belarus,BLR,Europe,Upper middle income,265,17440,798,9498700
-Benin,BEN,Africa,Low income,365,2025,480,10879829
-Bhutan,BTN,South-East Asia,Lower middle income,387,8196,605,742737
-Bolivia,BOL,Americas,Lower middle income,466,6650,662,11410651
-Brazil,BRA,Americas,Upper middle income,519,15048,755,206440850
-Burkina Faso,BFA,Africa,Low income,395,1777,402,17322796
-Burundi,BDI,Africa,Low income,330,834,400,11178921
-Cambodia,KHM,Western Pacific,Lower middle income,318,3476,555,15458332
-Cameroon,CMR,Africa,Lower middle income,446,3246,512,22534532
-Chile,CHL,Americas,High income,503,25415,832,18006407
-China,CHN,Western Pacific,Upper middle income,462,15095,727,1376049000
-Colombia,COL,Americas,Upper middle income,522,14171,720,48786100
-Comoros,COM,Africa,Low income,643,1523,503,798000
-Croatia,HRV,Europe,High income,302,23171,818,4190700
-Cyprus,CYP,Europe,High income,291,30882,850,1141166
-Democratic Republic of the Congo,COD,Africa,Low income,444,816,433,81680000
-Denmark,DNK,Europe,High income,275,46976,923,5707251
-Dominican Republic,DOM,Americas,Upper middle income,471,15777,715,10075045
-Egypt,EGY,Eastern Mediterranean,Lower middle income,308,11849,690,85783
-El Salvador,SLV,Americas,Lower middle income,435,8668,686,6377195
-Estonia,EST,Europe,High income,329,29501,861,1315944
-Finland,FIN,Europe,High income,256,42654,883,5488543
-France,FRA,Europe,High income,301,41181,888,66736000
-Gabon,GAB,Africa,Upper middle income,415,22400,684,1475000
-Germany,DEU,Europe,High income,307,47033,916,82175700
-Ghana,GHA,Africa,Lower middle income,428,4390,579,27043093
-Greece,GRC,Europe,High income,342,26606,865,10955000
-Guatemala,GTM,Americas,Upper middle income,551,7680,627,15806675
-Guinea,GIN,Africa,Low income,703,1281,412,8746128
-Haiti,HTI,Americas,Low income,608,1849,483,10604000
-Honduras,HND,Americas,Lower middle income,553,4959,606,8249574
-Hungary,HUN,Europe,High income,279,26941,828,9855571
-India,IND,South-East Asia,Lower middle income,339,6664,609,1293057000
-Indonesia,IDN,South-East Asia,Lower middle income,356,11633,684,255461700
-Iran,IRN,Eastern Mediterranean,Upper middle income,374,12833,766,79200000
-Italy,ITA,Europe,High income,327,36191,873,60674003
-Jamaica,JAM,Americas,Upper middle income,455,8991,719,2950210
-Jordan,JOR,Eastern Mediterranean,Upper middle income,354,12162,748,9813095
-Kazakhstan,KAZ,Europe,Upper middle income,264,24143,788,17693500
-Kenya,KEN,Africa,Lower middle income,425,3245,548,45010056
-Kyrgyzstan,KGZ,Europe,Lower middle income,274,3363,655,6000000
-Latvia,LVA,Europe,High income,352,25740,819,1973700
-Liberia,LBR,Africa,Low income,382,881,430,4503000
-Lithuania,LTU,Europe,High income,379,29881,839,2859709
-Luxembourg,LUX,Europe,High income,287,100991,892,576249
-Madagascar,MDG,Africa,Low income,441,1510,510,22434363
-Maldives,MDV,South-East Asia,Upper middle income,374,13954,706,393253
-Malta,MLT,Europe,High income,277,33215,839,445426
-Mauritania,MRT,Africa,Lower middle income,405,4287,506,4067564
-Mauritius,MUS,Africa,Upper middle income,359,18728,777,1261208
-Mexico,MEX,Americas,Upper middle income,481,18857,756,119530753
-Mozambique,MOZ,Africa,Low income,457,1327,416,24692144
-Netherlands,NLD,Europe,High income,262,50339,922,17000059
-Nigeria,NGA,Africa,Lower middle income,430,6351,514,188462640
-Norway,NOR,Europe,High income,235,70066,944,5214900
-Pakistan,PAK,Eastern Mediterranean,Lower middle income,300,5084,538,201995540
-Panama,PAN,Americas,High income,519,20512,780,3929141
-Papua New Guinea,PNG,Western Pacific,Lower middle income,509,2834,505,7059653
-Paraguay,PRY,Americas,Upper middle income,482,8905,679,6783272
-Peru,PER,Americas,Upper middle income,447,12638,734,31151643
-Poland,POL,Europe,High income,327,27654,843,38483957
-Portugal,PRT,Europe,High income,342,28476,830,10341330
-Qatar,QAT,Eastern Mediterranean,High income,411,145894,850,2383705
-Romania,ROU,Europe,Upper middle income,340,22319,793,19511000
-Rwanda,RWA,Africa,Low income,513,1784,483,11262564
-Senegal,SEN,Africa,Low income,403,2525,485,13567338
-Serbia,SRB,Europe,Upper middle income,380,14938,771,7041599
-Singapore,SGP,Western Pacific,High income,464,82762,912,5610000
-Slovakia,SVK,Europe,High income,261,29209,844,5426252
-Slovenia,SVN,Europe,High income,250,32027,880,2063077
-South Africa,ZAF,Africa,Upper middle income,631,13321,666,54956900
-Suriname,SUR,Americas,Upper middle income,529,16623,714,573311
-Sweden,SWE,Europe,High income,254,47319,907,9920881
-Switzerland,CHE,Europe,High income,285,59150,930,8341000
-Tajikistan,TJK,Europe,Low income,308,2247,624,8610000
-Thailand,THA,South-East Asia,Upper middle income,394,16706,726,67959000
-Togo,TGO,Africa,Low income,460,1567,473,7552318
-Trinidad and Tobago,TTO,Americas,High income,390,32432,772,1349667
-Tunisia,TUN,Eastern Mediterranean,Lower middle income,361,11651,721,10982754
-Turkmenistan,TKM,Europe,Upper middle income,408,17072,688,5171943
-Ukraine,UKR,Europe,Lower middle income,246,8230,747,42539010
-United Arab Emirates,ARE,Eastern Mediterranean,High income,360,67616,835,5779760
-Uruguay,URY,Americas,High income,419,21944,793,3427000
-Zambia,ZMB,Africa,Lower middle income,575,3917,586,16212000
-Zimbabwe,ZWE,Africa,Low income,501,2133,509,12973808
-South Sudan,SSD,Africa,Low income,455,1886,467,12340000
-Afghanistan,AFG,Eastern Mediterranean,Low income,,,,
-Albania,ALB,Europe,Upper middle income,345,12484,733,2886026
-Angola,AGO,Africa,Lower middle income,,,,
-Australia,AUS,Western Pacific,High income,,,,
+Algeria,DZA,Africa,Upper middle income,353,14610.0,736,40400000
+Angola,AGO,Africa,Lower middle income,427,7501.0,532,
+Argentina,ARG,Americas,High income,423,22554.0,836,43417000
+Armenia,ARM,Europe,Upper middle income,315,8468.0,733,2998600
+Australia,AUS,Western Pacific,High income,336,47318.0,935,
+Austria,AUT,Europe,High income,276,48098.0,885,8725931
+Azerbaijan,AZE,Europe,Upper middle income,337,17500.0,751,9754830
 Bahamas,BHS,Americas,High income,,,,
-Bahrain,BHR,Eastern Mediterranean,High income,,,,
-Barbados,BRB,Americas,High income,,,,
-Belgium,BEL,Europe,High income,,,,
-Belize,BLZ,Americas,Upper middle income,,,,
-Bosnia and Herzegovina,BIH,Europe,Upper middle income,,,,
+Bahrain,BHR,Eastern Mediterranean,High income,,29789.0,824,1378000
+Bangladesh,BGD,South-East Asia,Lower middle income,321,3581.0,570,168957745
+Barbados,BRB,Americas,High income,,16653.0,785,
+Belarus,BLR,Europe,Upper middle income,265,17440.0,798,9498700
+Belize,BLZ,Americas,Upper middle income,,8495.0,715,368310
+Benin,BEN,Africa,Low income,365,2025.0,480,10879829
+Bhutan,BTN,South-East Asia,Lower middle income,387,8196.0,605,742737
+Bolivia,BOL,Americas,Lower middle income,466,6650.0,662,11410651
+Bosnia and Herzegovina,BIH,Europe,Upper middle income,362,11647.0,733,
 Botswana,BWA,Africa,Upper middle income,,,,
+Brazil,BRA,Americas,Upper middle income,519,15048.0,755,206440850
 Brunei Darussalam,BRN,Western Pacific,High income,,,,
-Bulgaria,BGR,Europe,Upper middle income,,,,
-Canada,CAN,Americas,High income,,,,
+Bulgaria,BGR,Europe,Upper middle income,370,19839.0,782,
+Burkina Faso,BFA,Africa,Low income,395,1777.0,402,17322796
+Burundi,BDI,Africa,Low income,330,834.0,400,11178921
+Cambodia,KHM,Western Pacific,Lower middle income,318,3476.0,555,15458332
+Cameroon,CMR,Africa,Lower middle income,446,3246.0,512,22534532
 Cabo Verde,CPV,Africa,Lower middle income,,,,
-Central African Republic,CAF,Africa,Low income,563,668,350,4709000
-Chad,TCD,Africa,Low income,,,,
+Chad,TCD,Africa,Low income,,2847.0,392,13670084
+Chile,CHL,Americas,High income,503,25415.0,832,18006407
+China,CHN,Western Pacific,Upper middle income,462,15095.0,727,1376049000
+Colombia,COL,Americas,Upper middle income,522,14171.0,720,48786100
+Comoros,COM,Africa,Low income,643,1523.0,503,798000
 Congo,COG,Africa,Lower middle income,,,,
-Costa Rica,CRI,Americas,Upper middle income,,,,
-Cuba,CUB,Americas,Upper middle income,,,,
+Costa Rica,CRI,Americas,Upper middle income,407,15365.0,766,
+Croatia,HRV,Europe,High income,302,23171.0,818,4190700
+Cuba,CUB,Americas,Upper middle income,380,20649.0,769,
+Cyprus,CYP,Europe,High income,291,30882.0,850,1141166
 Czechia,CZE,Europe,High income,,,,
 Côte d'Ivoire,CIV,Africa,Lower middle income,,,,
 Democratic People's Republic of Korea,PRK,South-East Asia,Low income,,,,
-Djibouti,DJI,Eastern Mediterranean,Lower middle income,400,3351,470,828324
-Ecuador,ECU,Americas,Upper middle income,466,11788,732,16144000
-Equatorial Guinea,GNQ,Africa,Upper middle income,,,,
-Eritrea,ERI,Africa,Low income,,,,
-Ethiopia,ETH,Africa,Low income,,,,
-Fiji,FJI,Western Pacific,Upper middle income,428,9314,727,909389
+Democratic Republic of the Congo,COD,Africa,Low income,444,816.0,433,81680000
+Denmark,DNK,Europe,High income,275,46976.0,923,5707251
+Dominican Republic,DOM,Americas,Upper middle income,471,15777.0,715,10075045
+Egypt,EGY,Eastern Mediterranean,Lower middle income,308,11849.0,690,85783
+El Salvador,SLV,Americas,Lower middle income,435,8668.0,686,6377195
+Equatorial Guinea,GNQ,Africa,Upper middle income,,28923.0,587,1222442
+Estonia,EST,Europe,High income,329,29501.0,861,1315944
+Finland,FIN,Europe,High income,256,42654.0,883,5488543
+France,FRA,Europe,High income,301,41181.0,888,66736000
+Gabon,GAB,Africa,Upper middle income,415,22400.0,684,1475000
 Gambia,GMB,Africa,Low income,,,,
 Georgia,GEO,Europe,Lower middle income,,,,
-Guinea-Bissau,GNB,Africa,Low income,350,1561,396,1693398
-Guyana,GUY,Americas,Upper middle income,,,,
-Iceland,ISL,Europe,High income,,,,
-Ireland,IRL,Europe,High income,,,,
-Israel,ISR,Europe,High income,428,34336,894,8541000
-Japan,JPN,Western Pacific,High income,,,,
-Kuwait,KWT,Eastern Mediterranean,High income,,,,
+Germany,DEU,Europe,High income,307,47033.0,916,82175700
+Ghana,GHA,Africa,Lower middle income,428,4390.0,579,27043093
+Greece,GRC,Europe,High income,342,26606.0,865,10955000
+Guatemala,GTM,Americas,Upper middle income,551,7680.0,627,15806675
+Guinea,GIN,Africa,Low income,703,1281.0,412,8746128
+Haiti,HTI,Americas,Low income,608,1849.0,483,10604000
+Honduras,HND,Americas,Lower middle income,553,4959.0,606,8249574
+Hungary,HUN,Europe,High income,279,26941.0,828,9855571
+Iceland,ISL,Europe,High income,240,44575.0,899,
+India,IND,South-East Asia,Lower middle income,339,6664.0,609,1293057000
+Indonesia,IDN,South-East Asia,Lower middle income,356,11633.0,684,255461700
+Iran,IRN,Eastern Mediterranean,Upper middle income,374,12833.0,766,79200000
+Ireland,IRL,Europe,High income,,,,6378000
+Italy,ITA,Europe,High income,327,36191.0,873,60674003
+Jamaica,JAM,Americas,Upper middle income,455,8991.0,719,2950210
+Jordan,JOR,Eastern Mediterranean,Upper middle income,354,12162.0,748,9813095
+Kazakhstan,KAZ,Europe,Upper middle income,264,24143.0,788,17693500
+Kenya,KEN,Africa,Lower middle income,425,3245.0,548,45010056
+Kuwait,KWT,Eastern Mediterranean,High income,,71318.0,816,4348395
+Kyrgyzstan,KGZ,Europe,Lower middle income,274,3363.0,655,6000000
 Lao People's Democratic Republic,LAO,Western Pacific,Lower middle income,,,,
-Lebanon,LBN,Eastern Mediterranean,Upper middle income,,,,
-Lesotho,LSO,Africa,Lower middle income,542,3133,486,2067000
-Libya,LBY,Eastern Mediterranean,Upper middle income,,,,
-Malawi,MWI,Africa,Low income,,,,
-Malaysia,MYS,Western Pacific,Upper middle income,462,25833,779,28334
-Mali,MLI,Africa,Low income,,,,
-Mongolia,MNG,Western Pacific,Lower middle income,365,11024,727,3081677
-Morocco,MAR,Eastern Mediterranean,Lower middle income,,,,
-Myanmar,MMR,South-East Asia,Lower middle income,,,,
-Namibia,NAM,Africa,Upper middle income,,,,
-Nepal,NPL,South-East Asia,Low income,,,,
-New Zealand,NZL,Western Pacific,High income,,,,
-Nicaragua,NIC,Americas,Lower middle income,,,,
-Niger,NER,Africa,Low income,,,,
-Oman,OMN,Eastern Mediterranean,High income,,,,
-Philippines,PHL,Western Pacific,Lower middle income,,,,
+Latvia,LVA,Europe,High income,352,25740.0,819,1973700
+Lebanon,LBN,Eastern Mediterranean,Upper middle income,,17986.0,769,6184701
+Liberia,LBR,Africa,Low income,382,881.0,430,4503000
+Libya,LBY,Eastern Mediterranean,Upper middle income,,14348.0,724,6411776
+Lithuania,LTU,Europe,High income,379,29881.0,839,2859709
+Luxembourg,LUX,Europe,High income,287,100991.0,892,576249
+Madagascar,MDG,Africa,Low income,441,1510.0,510,22434363
+Maldives,MDV,South-East Asia,Upper middle income,374,13954.0,706,393253
+Mali,MLI,Africa,Low income,330,1843.0,407,
+Malta,MLT,Europe,High income,277,33215.0,839,445426
+Mauritania,MRT,Africa,Lower middle income,405,4287.0,506,4067564
+Mauritius,MUS,Africa,Upper middle income,359,18728.0,777,1261208
+Mexico,MEX,Americas,Upper middle income,481,18857.0,756,119530753
+Morocco,MAR,Eastern Mediterranean,Lower middle income,409,8194.0,628,
+Mozambique,MOZ,Africa,Low income,457,1327.0,416,24692144
+Myanmar,MMR,South-East Asia,Lower middle income,,5952.0,538,
+Namibia,NAM,Africa,Upper middle income,597,11786.0,628,
+Nepal,NPL,South-East Asia,Low income,328,2573.0,548,
+Netherlands,NLD,Europe,High income,262,50339.0,922,17000059
+New Zealand,NZL,Western Pacific,High income,330,36950.0,913,
+Nicaragua,NIC,Americas,Lower middle income,457,4972.0,631,
+Niger,NER,Africa,Low income,315,1111.0,348,
+Nigeria,NGA,Africa,Lower middle income,430,6351.0,514,188462640
+Norway,NOR,Europe,High income,235,70066.0,944,5214900
+Oman,OMN,Eastern Mediterranean,High income,,44530.0,793,4441448
+Pakistan,PAK,Eastern Mediterranean,Lower middle income,300,5084.0,538,201995540
+Panama,PAN,Americas,High income,519,20512.0,780,3929141
+Papua New Guinea,PNG,Western Pacific,Lower middle income,509,2834.0,505,7059653
+Paraguay,PRY,Americas,Upper middle income,482,8905.0,679,6783272
+Peru,PER,Americas,Upper middle income,447,12638.0,734,31151643
+Philippines,PHL,Western Pacific,Lower middle income,460,7612.0,668,
+Poland,POL,Europe,High income,327,27654.0,843,38483957
+Portugal,PRT,Europe,High income,342,28476.0,830,10341330
+Qatar,QAT,Eastern Mediterranean,High income,411,145894.0,850,2383705
 Republic of Korea,KOR,Western Pacific,High income,,,,
 Republic of Moldova,MDA,Europe,Lower middle income,,,,
+Romania,ROU,Europe,Upper middle income,340,22319.0,793,19511000
 Russian Federation,RUS,Europe,Upper middle income,,,,
-Saudi Arabia,SAU,Eastern Mediterranean,High income,,,,
-Sierra Leone,SLE,Africa,Low income,,,,
-Somalia,SOM,Eastern Mediterranean,Low income,,,,
-Spain,ESP,Europe,High income,,,,
-Sri Lanka,LKA,South-East Asia,Lower middle income,,,,
-Sudan,SDN,Eastern Mediterranean,Lower middle income,353,4834,473,40235000
-Eswatini,SWZ,Africa,Lower middle income,,,,
+Rwanda,RWA,Africa,Low income,513,1784.0,483,11262564
+Saudi Arabia,SAU,Eastern Mediterranean,High income,,53624.0,837,30770375
+Senegal,SEN,Africa,Low income,403,2525.0,485,13567338
+Serbia,SRB,Europe,Upper middle income,380,14938.0,771,7041599
+Sierra Leone,SLE,Africa,Low income,354,1534.0,413,
+Singapore,SGP,Western Pacific,High income,464,82762.0,912,5610000
+Slovakia,SVK,Europe,High income,261,29209.0,844,5426252
+Slovenia,SVN,Europe,High income,250,32027.0,880,2063077
+Somalia,SOM,Eastern Mediterranean,Low income,,600.0,,12316895
+South Africa,ZAF,Africa,Upper middle income,631,13321.0,666,54956900
+Sri Lanka,LKA,South-East Asia,Lower middle income,364,11189.0,757,
+Suriname,SUR,Americas,Upper middle income,529,16623.0,714,573311
+Sweden,SWE,Europe,High income,254,47319.0,907,9920881
+Switzerland,CHE,Europe,High income,285,59150.0,930,8341000
 Syrian Arab Republic,SYR,Eastern Mediterranean,Low income,,,,
+Tajikistan,TJK,Europe,Low income,308,2247.0,624,8610000
+Thailand,THA,South-East Asia,Upper middle income,394,16706.0,726,67959000
 North Macedonia,MKD,Europe,Upper middle income,,,,
 Timor-Leste,TLS,South-East Asia,Lower middle income,,,,
-Turkey,TUR,Europe,Upper middle income,,,,
+Togo,TGO,Africa,Low income,460,1567.0,473,7552318
+Trinidad and Tobago,TTO,Americas,High income,390,32432.0,772,1349667
+Tunisia,TUN,Eastern Mediterranean,Lower middle income,361,11651.0,721,10982754
+Turkey,TUR,Europe,Upper middle income,400,21198.0,761,
+Turkmenistan,TKM,Europe,Upper middle income,408,17072.0,688,5171943
 Uganda,UGA,Africa,Low income,,,,
+Ukraine,UKR,Europe,Lower middle income,246,8230.0,747,42539010
+United Arab Emirates,ARE,Eastern Mediterranean,High income,360,67616.0,835,5779760
 United Kingdom of Great Britain and Northern Ireland,GBR,Europe,High income,,,,
 United Republic of Tanzania,TZA,Africa,Low income,,,,
 United States of America,USA,Americas,High income,,,,
-Uzbekistan,UZB,Europe,Lower middle income,,,,
-Venezuela,VEN,Americas,Upper middle income,,,,
+Uruguay,URY,Americas,High income,419,21944.0,793,3427000
+Venezuela,VEN,Americas,Upper middle income,448,15251.0,762,
 Viet Nam,VNM,Western Pacific,Lower middle income,,,,
-Yemen,YEM,Eastern Mediterranean,Low income,,,,
-Montenegro,MNE,Europe,Upper middle income,,,,
+Yemen,YEM,Eastern Mediterranean,Low income,,2927.0,500,25408000
+Zambia,ZMB,Africa,Lower middle income,575,3917.0,586,16212000
+Zimbabwe,ZWE,Africa,Low income,501,2133.0,509,12973808
+Montenegro,MNE,Europe,Upper middle income,262,16654.0,802,
+South Sudan,SSD,Africa,Low income,455,1886.0,467,12340000
+Afghanistan,AFG,Eastern Mediterranean,Low income,,,,
+Albania,ALB,Europe,Upper middle income,345,12484,733,2886026
+Belgium,BEL,Europe,High income,,,,
+Canada,CAN,Americas,High income,,,,
+Central African Republic,CAF,Africa,Low income,563,668,350,4709000
+Djibouti,DJI,Eastern Mediterranean,Lower middle income,400,3351,470,828324
+Ecuador,ECU,Americas,Upper middle income,466,11788,732,16144000
+Eritrea,ERI,Africa,Low income,,1314,391,6380803
+Ethiopia,ETH,Africa,Low income,,,,
+Fiji,FJI,Western Pacific,Upper middle income,428,9314,727,909389
+Guinea-Bissau,GNB,Africa,Low income,350,1561,396,1693398
+Guyana,GUY,Americas,Upper middle income,,,,
+Israel,ISR,Europe,High income,428,34336,894,8541000
+Japan,JPN,Western Pacific,High income,,,,
+Lesotho,LSO,Africa,Lower middle income,542,3133,486,2067000
+Malawi,MWI,Africa,Low income,,,,
+Malaysia,MYS,Western Pacific,Upper middle income,462,25833,779,28334
+Mongolia,MNG,Western Pacific,Lower middle income,365,11024,727,3081677
+Spain,ESP,Europe,High income,337,36143,876,
+Sudan,SDN,Eastern Mediterranean,Lower middle income,353,4834,473,40235000
+Eswatini,SWZ,Africa,Lower middle income,,,,
+Uzbekistan,UZB,Europe,Lower middle income,,,,
