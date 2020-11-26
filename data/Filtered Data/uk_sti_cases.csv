@@ -111,22 +111,22 @@ DIP (clamidia),2016,F,28,1367,1395
 DIP (clamidia),2017,F,20,1304,1324
 DIP (clamidia),2018,F,22,1272,1294
 DIP (clamidia),2019,F,18,1063,1081
-DIP (gonorriea),2012,M,0,115,115
-DIP (gonorriea),2013,M,1,148,149
-DIP (gonorriea),2014,M,2,149,151
-DIP (gonorriea),2015,M,0,156,156
-DIP (gonorriea),2016,M,3,138,141
-DIP (gonorriea),2017,M,1,177,178
-DIP (gonorriea),2018,M,7,209,216
-DIP (gonorriea),2019,M,5,251,256
-DIP (gonorriea),2012,F,6,362,368
-DIP (gonorriea),2013,F,9,375,384
-DIP (gonorriea),2014,F,15,413,428
-DIP (gonorriea),2015,F,14,379,393
-DIP (gonorriea),2016,F,7,294,301
-DIP (gonorriea),2017,F,6,313,319
-DIP (gonorriea),2018,F,9,402,411
-DIP (gonorriea),2019,F,10,461,471
+DIP (gonorreia),2012,M,0,115,115
+DIP (gonorreia),2013,M,1,148,149
+DIP (gonorreia),2014,M,2,149,151
+DIP (gonorreia),2015,M,0,156,156
+DIP (gonorreia),2016,M,3,138,141
+DIP (gonorreia),2017,M,1,177,178
+DIP (gonorreia),2018,M,7,209,216
+DIP (gonorreia),2019,M,5,251,256
+DIP (gonorreia),2012,F,6,362,368
+DIP (gonorreia),2013,F,9,375,384
+DIP (gonorreia),2014,F,15,413,428
+DIP (gonorreia),2015,F,14,379,393
+DIP (gonorreia),2016,F,7,294,301
+DIP (gonorreia),2017,F,6,313,319
+DIP (gonorreia),2018,F,9,402,411
+DIP (gonorreia),2019,F,10,461,471
 sifilis,2012,M,17,2715,2732
 sifilis,2013,M,40,2987,3027
 sifilis,2014,M,42,4108,4150
