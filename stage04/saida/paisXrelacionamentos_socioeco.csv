@@ -1,0 +1,1355 @@
+﻿A,B,relationship
+Algeria,Bosnia and Herzegovina,Inequality
+Algeria,Indonesia,Inequality
+Algeria,Jordan,Inequality
+Algeria,Latvia,Inequality
+Algeria,Mauritius,Inequality
+Algeria,Sierra Leone,Inequality
+Algeria,Tunisia,Inequality
+Algeria,United Arab Emirates,Inequality
+Algeria,Guinea-Bissau,Inequality
+Algeria,Sudan,Inequality
+Algeria,Ecuador,HumanDev
+Algeria,Bosnia and Herzegovina,HumanDev
+Algeria,Armenia,HumanDev
+Algeria,Fiji,HumanDev
+Algeria,China,HumanDev
+Algeria,Peru,HumanDev
+Algeria,Mongolia,HumanDev
+Algeria,Venezuela,MoneyPerCapita
+Algeria,Costa Rica,MoneyPerCapita
+Algeria,Brazil,MoneyPerCapita
+Algeria,Maldives,MoneyPerCapita
+Algeria,China,MoneyPerCapita
+Algeria,Libya,MoneyPerCapita
+Algeria,Colombia,MoneyPerCapita
+Algeria,Serbia,MoneyPerCapita
+Angola,Argentina,Inequality
+Angola,El Salvador,Inequality
+Angola,Ghana,Inequality
+Angola,Kenya,Inequality
+Angola,Nigeria,Inequality
+Angola,Uruguay,Inequality
+Angola,Fiji,Inequality
+Angola,Israel,Inequality
+Angola,Myanmar,HumanDev
+Angola,Pakistan,HumanDev
+Angola,Morocco,MoneyPerCapita
+Angola,Bhutan,MoneyPerCapita
+Angola,Philippines,MoneyPerCapita
+Angola,Ukraine,MoneyPerCapita
+Angola,India,MoneyPerCapita
+Angola,Armenia,MoneyPerCapita
+Angola,Bolivia,MoneyPerCapita
+Angola,Belize,MoneyPerCapita
+Angola,Guatemala,MoneyPerCapita
+Argentina,Gabon,Inequality
+Argentina,Ghana,Inequality
+Argentina,Kenya,Inequality
+Argentina,Nigeria,Inequality
+Argentina,Uruguay,Inequality
+Argentina,Fiji,Inequality
+Argentina,Israel,Inequality
+Argentina,Chile,HumanDev
+Argentina,Lithuania,HumanDev
+Argentina,Slovakia,HumanDev
+Argentina,Malta,HumanDev
+Argentina,United Arab Emirates,HumanDev
+Argentina,Poland,HumanDev
+Argentina,Portugal,HumanDev
+Argentina,Saudi Arabia,HumanDev
+Argentina,Hungary,HumanDev
+Argentina,Gabon,MoneyPerCapita
+Argentina,Croatia,MoneyPerCapita
+Argentina,Uruguay,MoneyPerCapita
+Argentina,Romania,MoneyPerCapita
+Armenia,Bangladesh,Inequality
+Armenia,Cambodia,Inequality
+Armenia,Egypt,Inequality
+Armenia,Germany,Inequality
+Armenia,Niger,Inequality
+Armenia,Tajikistan,Inequality
+Armenia,Ecuador,HumanDev
+Armenia,Mongolia,HumanDev
+Armenia,Fiji,HumanDev
+Armenia,Bosnia and Herzegovina,HumanDev
+Armenia,Peru,HumanDev
+Armenia,China,HumanDev
+Armenia,Libya,HumanDev
+Armenia,Thailand,HumanDev
+Armenia,Ukraine,MoneyPerCapita
+Armenia,Belize,MoneyPerCapita
+Armenia,El Salvador,MoneyPerCapita
+Armenia,Guatemala,MoneyPerCapita
+Armenia,Jamaica,MoneyPerCapita
+Armenia,Bhutan,MoneyPerCapita
+Armenia,Philippines,MoneyPerCapita
+Armenia,Morocco,MoneyPerCapita
+Armenia,Paraguay,MoneyPerCapita
+Armenia,Fiji,MoneyPerCapita
+Australia,Germany,MoneyPerCapita
+Australia,Sweden,MoneyPerCapita
+Australia,Austria,MoneyPerCapita
+Australia,Denmark,MoneyPerCapita
+Australia,Switzerland,HumanDev
+Australia,Norway,HumanDev
+Australia,India,Inequality
+Australia,Mali,Inequality
+Australia,Burundi,Inequality
+Australia,Italy,Inequality
+Australia,New Zealand,Inequality
+Australia,Portugal,Inequality
+Australia,Estonia,Inequality
+Australia,Romania,Inequality
+Australia,Greece,Inequality
+Australia,Nepal,Inequality
+Australia,Poland,Inequality
+Australia,Spain,Inequality
+Australia,Azerbaijan,Inequality
+Austria,Sweden,MoneyPerCapita
+Austria,Slovenia,HumanDev
+Austria,Luxembourg,HumanDev
+Austria,Israel,HumanDev
+Austria,Spain,HumanDev
+Austria,France,HumanDev
+Austria,Finland,HumanDev
+Austria,Kyrgyzstan,Inequality
+Austria,Hungary,Inequality
+Austria,Switzerland,Inequality
+Austria,Malta,Inequality
+Austria,Denmark,Inequality
+Azerbaijan,New Zealand,Inequality
+Azerbaijan,Burundi,Inequality
+Azerbaijan,Romania,Inequality
+Azerbaijan,India,Inequality
+Azerbaijan,Greece,Inequality
+Azerbaijan,Estonia,Inequality
+Azerbaijan,Portugal,Inequality
+Azerbaijan,Mali,Inequality
+Azerbaijan,Nepal,Inequality
+Azerbaijan,Spain,Inequality
+Azerbaijan,Sri Lanka,HumanDev
+Azerbaijan,Jordan,HumanDev
+Azerbaijan,Mexico,HumanDev
+Azerbaijan,Brazil,HumanDev
+Azerbaijan,Ukraine,HumanDev
+Azerbaijan,Suriname,MoneyPerCapita
+Azerbaijan,Barbados,MoneyPerCapita
+Azerbaijan,Thailand,MoneyPerCapita
+Azerbaijan,Montenegro,MoneyPerCapita
+Azerbaijan,Turkmenistan,MoneyPerCapita
+Azerbaijan,Lebanon,MoneyPerCapita
+Azerbaijan,Belarus,MoneyPerCapita
+Bahrain,Portugal,HumanDev
+Bahrain,Kuwait,HumanDev
+Bahrain,Chile,HumanDev
+Bahrain,Hungary,HumanDev
+Bahrain,Croatia,HumanDev
+Bahrain,Latvia,HumanDev
+Bahrain,Slovakia,MoneyPerCapita
+Bahrain,Lithuania,MoneyPerCapita
+Bahrain,Estonia,MoneyPerCapita
+Bahrain,Equatorial Guinea,MoneyPerCapita
+Bangladesh,New Zealand,Inequality
+Bangladesh,Cambodia,Inequality
+Bangladesh,Mali,Inequality
+Bangladesh,Nepal,Inequality
+Bangladesh,Burundi,Inequality
+Bangladesh,Niger,Inequality
+Bangladesh,Estonia,Inequality
+Bangladesh,Poland,Inequality
+Bangladesh,Italy,Inequality
+Bangladesh,Ghana,HumanDev
+Bangladesh,Kyrgyzstan,MoneyPerCapita
+Bangladesh,Cameroon,MoneyPerCapita
+Bangladesh,Kenya,MoneyPerCapita
+Bangladesh,Papua New Guinea,MoneyPerCapita
+Bangladesh,Zambia,MoneyPerCapita
+Bangladesh,Cambodia,MoneyPerCapita
+Bangladesh,Mauritania,MoneyPerCapita
+Bangladesh,Yemen,MoneyPerCapita
+Bangladesh,Ghana,MoneyPerCapita
+Bangladesh,Djibouti,MoneyPerCapita
+Bangladesh,Chad,MoneyPerCapita
+Bangladesh,Lesotho,MoneyPerCapita
+Barbados,Bulgaria,HumanDev
+Barbados,Malaysia,HumanDev
+Barbados,Oman,HumanDev
+Barbados,Mauritius,HumanDev
+Barbados,Panama,HumanDev
+Barbados,Uruguay,HumanDev
+Barbados,Kazakhstan,HumanDev
+Barbados,Romania,HumanDev
+Barbados,Suriname,MoneyPerCapita
+Barbados,Thailand,MoneyPerCapita
+Barbados,Belarus,MoneyPerCapita
+Barbados,Dominican Republic,MoneyPerCapita
+Barbados,Turkmenistan,MoneyPerCapita
+Barbados,Montenegro,MoneyPerCapita
+Belarus,Kyrgyzstan,Inequality
+Belarus,Netherlands,Inequality
+Belarus,Montenegro,Inequality
+Belarus,Slovakia,Inequality
+Belarus,Finland,Inequality
+Belarus,Kazakhstan,Inequality
+Belarus,Oman,HumanDev
+Belarus,Romania,HumanDev
+Belarus,Montenegro,HumanDev
+Belarus,Uruguay,HumanDev
+Belarus,Lebanon,MoneyPerCapita
+Belarus,Turkmenistan,MoneyPerCapita
+Belarus,Suriname,MoneyPerCapita
+Belarus,Thailand,MoneyPerCapita
+Belarus,Montenegro,MoneyPerCapita
+Belize,Jamaica,HumanDev
+Belize,Suriname,HumanDev
+Belize,Colombia,HumanDev
+Belize,Dominican Republic,HumanDev
+Belize,Tunisia,HumanDev
+Belize,Maldives,HumanDev
+Belize,Libya,HumanDev
+Belize,Philippines,MoneyPerCapita
+Belize,Paraguay,MoneyPerCapita
+Belize,El Salvador,MoneyPerCapita
+Belize,Bhutan,MoneyPerCapita
+Belize,Morocco,MoneyPerCapita
+Belize,Fiji,MoneyPerCapita
+Belize,Guatemala,MoneyPerCapita
+Belize,Ukraine,MoneyPerCapita
+Belize,Jamaica,MoneyPerCapita
+Benin,Tunisia,Inequality
+Benin,Bulgaria,Inequality
+Benin,Bosnia and Herzegovina,Inequality
+Benin,United Arab Emirates,Inequality
+Benin,Iran,Inequality
+Benin,Sri Lanka,Inequality
+Benin,Mongolia,Inequality
+Benin,Mauritius,Inequality
+Benin,Indonesia,Inequality
+Benin,Maldives,Inequality
+Benin,Senegal,HumanDev
+Benin,Togo,HumanDev
+Benin,Sudan,HumanDev
+Benin,Rwanda,HumanDev
+Benin,Haiti,HumanDev
+Benin,Lesotho,HumanDev
+Benin,Niger,MoneyPerCapita
+Benin,Togo,MoneyPerCapita
+Benin,Papua New Guinea,MoneyPerCapita
+Benin,Yemen,MoneyPerCapita
+Benin,South Sudan,MoneyPerCapita
+Benin,Rwanda,MoneyPerCapita
+Benin,Mozambique,MoneyPerCapita
+Benin,Senegal,MoneyPerCapita
+Benin,Zimbabwe,MoneyPerCapita
+Benin,Tajikistan,MoneyPerCapita
+Benin,Nepal,MoneyPerCapita
+Benin,Chad,MoneyPerCapita
+Benin,Madagascar,MoneyPerCapita
+Benin,Burkina Faso,MoneyPerCapita
+Benin,Guinea,MoneyPerCapita
+Benin,Mali,MoneyPerCapita
+Benin,Comoros,MoneyPerCapita
+Benin,Sierra Leone,MoneyPerCapita
+Benin,Haiti,MoneyPerCapita
+Benin,Eritrea,MoneyPerCapita
+Benin,Guinea-Bissau,MoneyPerCapita
+Bhutan,Cuba,Inequality
+Bhutan,Liberia,Inequality
+Bhutan,Burkina Faso,Inequality
+Bhutan,Serbia,Inequality
+Bhutan,Thailand,Inequality
+Bhutan,Lithuania,Inequality
+Bhutan,Trinidad and Tobago,Inequality
+Bhutan,India,HumanDev
+Bhutan,Honduras,HumanDev
+Bhutan,Paraguay,MoneyPerCapita
+Bhutan,Philippines,MoneyPerCapita
+Bhutan,Morocco,MoneyPerCapita
+Bhutan,El Salvador,MoneyPerCapita
+Bhutan,Ukraine,MoneyPerCapita
+Bhutan,Guatemala,MoneyPerCapita
+Bhutan,Jamaica,MoneyPerCapita
+Bolivia,Togo,Inequality
+Bolivia,Singapore,Inequality
+Bolivia,Malaysia,Inequality
+Bolivia,Mozambique,Inequality
+Bolivia,Nicaragua,Inequality
+Bolivia,China,Inequality
+Bolivia,Philippines,Inequality
+Bolivia,Dominican Republic,Inequality
+Bolivia,Ecuador,Inequality
+Bolivia,South Africa,HumanDev
+Bolivia,Philippines,HumanDev
+Bolivia,Kyrgyzstan,HumanDev
+Bolivia,Myanmar,MoneyPerCapita
+Bolivia,Nigeria,MoneyPerCapita
+Bolivia,Philippines,MoneyPerCapita
+Bolivia,India,MoneyPerCapita
+Bosnia and Herzegovina,United Arab Emirates,Inequality
+Bosnia and Herzegovina,Sudan,Inequality
+Bosnia and Herzegovina,Tunisia,Inequality
+Bosnia and Herzegovina,Mauritius,Inequality
+Bosnia and Herzegovina,Mongolia,Inequality
+Bosnia and Herzegovina,Sierra Leone,Inequality
+Bosnia and Herzegovina,Bulgaria,Inequality
+Bosnia and Herzegovina,Sri Lanka,Inequality
+Bosnia and Herzegovina,Jordan,Inequality
+Bosnia and Herzegovina,Indonesia,Inequality
+Bosnia and Herzegovina,Fiji,HumanDev
+Bosnia and Herzegovina,Libya,HumanDev
+Bosnia and Herzegovina,Peru,HumanDev
+Bosnia and Herzegovina,Thailand,HumanDev
+Bosnia and Herzegovina,Ecuador,HumanDev
+Bosnia and Herzegovina,Mongolia,HumanDev
+Bosnia and Herzegovina,China,HumanDev
+Bosnia and Herzegovina,Mongolia,MoneyPerCapita
+Bosnia and Herzegovina,Indonesia,MoneyPerCapita
+Bosnia and Herzegovina,Jordan,MoneyPerCapita
+Bosnia and Herzegovina,Egypt,MoneyPerCapita
+Bosnia and Herzegovina,Namibia,MoneyPerCapita
+Bosnia and Herzegovina,Tunisia,MoneyPerCapita
+Bosnia and Herzegovina,Sri Lanka,MoneyPerCapita
+Bosnia and Herzegovina,Ecuador,MoneyPerCapita
+Bosnia and Herzegovina,Peru,MoneyPerCapita
+Brazil,Panama,Inequality
+Brazil,Colombia,Inequality
+Brazil,Rwanda,Inequality
+Brazil,Ukraine,HumanDev
+Brazil,Jordan,HumanDev
+Brazil,Venezuela,HumanDev
+Brazil,Turkey,HumanDev
+Brazil,Sri Lanka,HumanDev
+Brazil,Mexico,HumanDev
+Brazil,Serbia,MoneyPerCapita
+Brazil,Libya,MoneyPerCapita
+Brazil,Costa Rica,MoneyPerCapita
+Brazil,Venezuela,MoneyPerCapita
+Brazil,China,MoneyPerCapita
+Brazil,Dominican Republic,MoneyPerCapita
+Brazil,Colombia,MoneyPerCapita
+Bulgaria,Iran,Inequality
+Bulgaria,Sri Lanka,Inequality
+Bulgaria,Lithuania,Inequality
+Bulgaria,Maldives,Inequality
+Bulgaria,Tunisia,Inequality
+Bulgaria,Mongolia,Inequality
+Bulgaria,Malaysia,HumanDev
+Bulgaria,Kazakhstan,HumanDev
+Bulgaria,Panama,HumanDev
+Bulgaria,Mauritius,HumanDev
+Bulgaria,Panama,MoneyPerCapita
+Bulgaria,Mexico,MoneyPerCapita
+Bulgaria,Cuba,MoneyPerCapita
+Burkina Faso,Senegal,Inequality
+Burkina Faso,Thailand,Inequality
+Burkina Faso,Djibouti,Inequality
+Burkina Faso,Turkey,Inequality
+Burkina Faso,Trinidad and Tobago,Inequality
+Burkina Faso,Burundi,HumanDev
+Burkina Faso,Mali,HumanDev
+Burkina Faso,Guinea-Bissau,HumanDev
+Burkina Faso,Eritrea,MoneyPerCapita
+Burkina Faso,Guinea-Bissau,MoneyPerCapita
+Burkina Faso,Guinea,MoneyPerCapita
+Burkina Faso,Madagascar,MoneyPerCapita
+Burkina Faso,Sierra Leone,MoneyPerCapita
+Burkina Faso,Mali,MoneyPerCapita
+Burkina Faso,Mozambique,MoneyPerCapita
+Burkina Faso,Rwanda,MoneyPerCapita
+Burkina Faso,Liberia,MoneyPerCapita
+Burkina Faso,Nepal,MoneyPerCapita
+Burkina Faso,Haiti,MoneyPerCapita
+Burkina Faso,South Sudan,MoneyPerCapita
+Burkina Faso,Togo,MoneyPerCapita
+Burkina Faso,Tajikistan,MoneyPerCapita
+Burkina Faso,Zimbabwe,MoneyPerCapita
+Burkina Faso,Senegal,MoneyPerCapita
+Burkina Faso,Democratic Republic of the Congo,MoneyPerCapita
+Burkina Faso,Comoros,MoneyPerCapita
+Burkina Faso,Niger,MoneyPerCapita
+Burkina Faso,Burundi,MoneyPerCapita
+Burundi,Italy,Inequality
+Burundi,Mali,Inequality
+Burundi,Estonia,Inequality
+Burundi,Nepal,Inequality
+Burundi,Spain,Inequality
+Burundi,India,Inequality
+Burundi,Poland,Inequality
+Burundi,New Zealand,Inequality
+Burundi,Eritrea,HumanDev
+Burundi,Chad,HumanDev
+Burundi,Guinea-Bissau,HumanDev
+Burundi,Mali,HumanDev
+Burundi,Central African Republic,MoneyPerCapita
+Burundi,Guinea-Bissau,MoneyPerCapita
+Burundi,Somalia,MoneyPerCapita
+Burundi,Sierra Leone,MoneyPerCapita
+Burundi,Mozambique,MoneyPerCapita
+Burundi,Rwanda,MoneyPerCapita
+Burundi,Liberia,MoneyPerCapita
+Burundi,Democratic Republic of the Congo,MoneyPerCapita
+Burundi,Comoros,MoneyPerCapita
+Burundi,Togo,MoneyPerCapita
+Burundi,Niger,MoneyPerCapita
+Burundi,Madagascar,MoneyPerCapita
+Burundi,Eritrea,MoneyPerCapita
+Burundi,Guinea,MoneyPerCapita
+Cambodia,Niger,Inequality
+Cambodia,Italy,Inequality
+Cambodia,Poland,Inequality
+Cambodia,Kenya,HumanDev
+Cambodia,Nepal,HumanDev
+Cambodia,Chad,MoneyPerCapita
+Cambodia,Kenya,MoneyPerCapita
+Cambodia,Lesotho,MoneyPerCapita
+Cambodia,Zambia,MoneyPerCapita
+Cambodia,Kyrgyzstan,MoneyPerCapita
+Cambodia,Senegal,MoneyPerCapita
+Cambodia,Ghana,MoneyPerCapita
+Cambodia,Papua New Guinea,MoneyPerCapita
+Cambodia,Nepal,MoneyPerCapita
+Cambodia,Cameroon,MoneyPerCapita
+Cambodia,Yemen,MoneyPerCapita
+Cambodia,Djibouti,MoneyPerCapita
+Cambodia,Mauritania,MoneyPerCapita
+Cameroon,Jamaica,Inequality
+Cameroon,Peru,Inequality
+Cameroon,Venezuela,Inequality
+Cameroon,Democratic Republic of the Congo,Inequality
+Cameroon,South Sudan,Inequality
+Cameroon,Madagascar,Inequality
+Cameroon,Nigeria,HumanDev
+Cameroon,Zimbabwe,HumanDev
+Cameroon,Mauritania,HumanDev
+Cameroon,Madagascar,HumanDev
+Cameroon,Comoros,HumanDev
+Cameroon,Papua New Guinea,HumanDev
+Cameroon,Zambia,MoneyPerCapita
+Cameroon,Nepal,MoneyPerCapita
+Cameroon,Senegal,MoneyPerCapita
+Cameroon,Kyrgyzstan,MoneyPerCapita
+Cameroon,Yemen,MoneyPerCapita
+Cameroon,Djibouti,MoneyPerCapita
+Cameroon,Lesotho,MoneyPerCapita
+Cameroon,Tajikistan,MoneyPerCapita
+Cameroon,Kenya,MoneyPerCapita
+Cameroon,Chad,MoneyPerCapita
+Cameroon,Papua New Guinea,MoneyPerCapita
+Chad,Guinea-Bissau,HumanDev
+Chad,Eritrea,HumanDev
+Chad,Senegal,MoneyPerCapita
+Chad,Lesotho,MoneyPerCapita
+Chad,Haiti,MoneyPerCapita
+Chad,Kyrgyzstan,MoneyPerCapita
+Chad,Tajikistan,MoneyPerCapita
+Chad,Nepal,MoneyPerCapita
+Chad,Djibouti,MoneyPerCapita
+Chad,Zimbabwe,MoneyPerCapita
+Chad,Kenya,MoneyPerCapita
+Chad,South Sudan,MoneyPerCapita
+Chad,Papua New Guinea,MoneyPerCapita
+Chad,Yemen,MoneyPerCapita
+Chile,Zimbabwe,Inequality
+Chile,Papua New Guinea,Inequality
+Chile,Hungary,HumanDev
+Chile,Portugal,HumanDev
+Chile,United Arab Emirates,HumanDev
+Chile,Lithuania,HumanDev
+Chile,Saudi Arabia,HumanDev
+Chile,Malta,HumanDev
+Chile,Latvia,MoneyPerCapita
+Chile,Malaysia,MoneyPerCapita
+China,Ecuador,Inequality
+China,Singapore,Inequality
+China,Nicaragua,Inequality
+China,Togo,Inequality
+China,Malaysia,Inequality
+China,Mozambique,Inequality
+China,Philippines,Inequality
+China,South Sudan,Inequality
+China,Dominican Republic,Inequality
+China,Jamaica,Inequality
+China,Colombia,HumanDev
+China,Ecuador,HumanDev
+China,Peru,HumanDev
+China,Fiji,HumanDev
+China,Thailand,HumanDev
+China,Jamaica,HumanDev
+China,Mongolia,HumanDev
+China,Libya,HumanDev
+China,Tunisia,HumanDev
+China,Colombia,MoneyPerCapita
+China,Serbia,MoneyPerCapita
+China,Venezuela,MoneyPerCapita
+China,Dominican Republic,MoneyPerCapita
+China,Costa Rica,MoneyPerCapita
+China,Libya,MoneyPerCapita
+Colombia,Rwanda,Inequality
+Colombia,Suriname,Inequality
+Colombia,Panama,Inequality
+Colombia,Jamaica,HumanDev
+Colombia,Libya,HumanDev
+Colombia,Dominican Republic,HumanDev
+Colombia,Suriname,HumanDev
+Colombia,Fiji,HumanDev
+Colombia,Tunisia,HumanDev
+Colombia,Mongolia,HumanDev
+Colombia,Thailand,HumanDev
+Colombia,Serbia,MoneyPerCapita
+Colombia,Libya,MoneyPerCapita
+Colombia,South Africa,MoneyPerCapita
+Colombia,Maldives,MoneyPerCapita
+Comoros,Papua New Guinea,HumanDev
+Comoros,Mauritania,HumanDev
+Comoros,Zimbabwe,HumanDev
+Comoros,Madagascar,HumanDev
+Comoros,Yemen,HumanDev
+Comoros,Mozambique,MoneyPerCapita
+Comoros,Madagascar,MoneyPerCapita
+Comoros,Eritrea,MoneyPerCapita
+Comoros,Guinea-Bissau,MoneyPerCapita
+Comoros,Guinea,MoneyPerCapita
+Comoros,Tajikistan,MoneyPerCapita
+Comoros,Liberia,MoneyPerCapita
+Comoros,Sierra Leone,MoneyPerCapita
+Comoros,Democratic Republic of the Congo,MoneyPerCapita
+Comoros,Rwanda,MoneyPerCapita
+Comoros,Togo,MoneyPerCapita
+Comoros,South Sudan,MoneyPerCapita
+Comoros,Somalia,MoneyPerCapita
+Comoros,Mali,MoneyPerCapita
+Comoros,Zimbabwe,MoneyPerCapita
+Comoros,Niger,MoneyPerCapita
+Comoros,Haiti,MoneyPerCapita
+Costa Rica,Gabon,Inequality
+Costa Rica,Djibouti,Inequality
+Costa Rica,Turkey,Inequality
+Costa Rica,Mauritania,Inequality
+Costa Rica,Turkmenistan,Inequality
+Costa Rica,Senegal,Inequality
+Costa Rica,Qatar,Inequality
+Costa Rica,Morocco,Inequality
+Costa Rica,Iran,HumanDev
+Costa Rica,Turkey,HumanDev
+Costa Rica,Serbia,HumanDev
+Costa Rica,Lebanon,HumanDev
+Costa Rica,Trinidad and Tobago,HumanDev
+Costa Rica,Venezuela,HumanDev
+Costa Rica,Cuba,HumanDev
+Costa Rica,Sri Lanka,HumanDev
+Costa Rica,Dominican Republic,MoneyPerCapita
+Costa Rica,Venezuela,MoneyPerCapita
+Costa Rica,Serbia,MoneyPerCapita
+Croatia,Pakistan,Inequality
+Croatia,Egypt,Inequality
+Croatia,Tajikistan,Inequality
+Croatia,France,Inequality
+Croatia,Germany,Inequality
+Croatia,Latvia,HumanDev
+Croatia,Kuwait,HumanDev
+Croatia,Romania,MoneyPerCapita
+Croatia,Kazakhstan,MoneyPerCapita
+Croatia,Gabon,MoneyPerCapita
+Cuba,Lithuania,Inequality
+Cuba,Iran,Inequality
+Cuba,Liberia,Inequality
+Cuba,Maldives,Inequality
+Cuba,Serbia,Inequality
+Cuba,Trinidad and Tobago,HumanDev
+Cuba,Turkey,HumanDev
+Cuba,Lebanon,HumanDev
+Cuba,Venezuela,HumanDev
+Cuba,Mauritius,HumanDev
+Cuba,Serbia,HumanDev
+Cuba,Iran,HumanDev
+Cuba,Turkey,MoneyPerCapita
+Cuba,Panama,MoneyPerCapita
+Cyprus,Pakistan,Inequality
+Cyprus,Luxembourg,Inequality
+Cyprus,Switzerland,Inequality
+Cyprus,Poland,HumanDev
+Cyprus,Qatar,HumanDev
+Cyprus,Slovakia,HumanDev
+Democratic Republic of the Congo,El Salvador,Inequality
+Democratic Republic of the Congo,Madagascar,Inequality
+Democratic Republic of the Congo,Peru,Inequality
+Democratic Republic of the Congo,Venezuela,Inequality
+Democratic Republic of the Congo,Liberia,HumanDev
+Democratic Republic of the Congo,Sierra Leone,MoneyPerCapita
+Democratic Republic of the Congo,Guinea,MoneyPerCapita
+Democratic Republic of the Congo,Somalia,MoneyPerCapita
+Democratic Republic of the Congo,Guinea-Bissau,MoneyPerCapita
+Democratic Republic of the Congo,Togo,MoneyPerCapita
+Democratic Republic of the Congo,Mozambique,MoneyPerCapita
+Democratic Republic of the Congo,Madagascar,MoneyPerCapita
+Democratic Republic of the Congo,Niger,MoneyPerCapita
+Democratic Republic of the Congo,Eritrea,MoneyPerCapita
+Democratic Republic of the Congo,Liberia,MoneyPerCapita
+Democratic Republic of the Congo,Rwanda,MoneyPerCapita
+Denmark,Sweden,MoneyPerCapita
+Denmark,Germany,MoneyPerCapita
+Denmark,Germany,HumanDev
+Denmark,Netherlands,HumanDev
+Denmark,Switzerland,HumanDev
+Denmark,Kyrgyzstan,Inequality
+Denmark,Malta,Inequality
+Denmark,Hungary,Inequality
+Dominican Republic,Ecuador,Inequality
+Dominican Republic,Singapore,Inequality
+Dominican Republic,Malaysia,Inequality
+Dominican Republic,Libya,HumanDev
+Dominican Republic,Jamaica,HumanDev
+Dominican Republic,Maldives,HumanDev
+Dominican Republic,Tunisia,HumanDev
+Dominican Republic,Suriname,HumanDev
+Dominican Republic,Suriname,MoneyPerCapita
+Dominican Republic,Montenegro,MoneyPerCapita
+Dominican Republic,Venezuela,MoneyPerCapita
+Dominican Republic,Thailand,MoneyPerCapita
+Dominican Republic,Serbia,MoneyPerCapita
+Egypt,Tajikistan,Inequality
+Egypt,Niger,Inequality
+Egypt,France,Inequality
+Egypt,Germany,Inequality
+Egypt,Pakistan,Inequality
+Egypt,El Salvador,HumanDev
+Egypt,Indonesia,HumanDev
+Egypt,Gabon,HumanDev
+Egypt,Turkmenistan,HumanDev
+Egypt,Peru,MoneyPerCapita
+Egypt,Namibia,MoneyPerCapita
+Egypt,Indonesia,MoneyPerCapita
+Egypt,Sri Lanka,MoneyPerCapita
+Egypt,Tunisia,MoneyPerCapita
+Egypt,Iran,MoneyPerCapita
+Egypt,Mongolia,MoneyPerCapita
+Egypt,Jordan,MoneyPerCapita
+El Salvador,Nigeria,Inequality
+El Salvador,Madagascar,Inequality
+El Salvador,Israel,Inequality
+El Salvador,Ghana,Inequality
+El Salvador,Fiji,Inequality
+El Salvador,Gabon,HumanDev
+El Salvador,Indonesia,HumanDev
+El Salvador,Paraguay,HumanDev
+El Salvador,Turkmenistan,HumanDev
+El Salvador,Fiji,MoneyPerCapita
+El Salvador,Ukraine,MoneyPerCapita
+El Salvador,Morocco,MoneyPerCapita
+El Salvador,Paraguay,MoneyPerCapita
+El Salvador,Jamaica,MoneyPerCapita
+El Salvador,Guatemala,MoneyPerCapita
+Equatorial Guinea,Ghana,HumanDev
+Equatorial Guinea,Zambia,HumanDev
+Equatorial Guinea,Estonia,MoneyPerCapita
+Equatorial Guinea,Slovakia,MoneyPerCapita
+Equatorial Guinea,Portugal,MoneyPerCapita
+Equatorial Guinea,Lithuania,MoneyPerCapita
+Estonia,Mali,Inequality
+Estonia,Spain,Inequality
+Estonia,Italy,Inequality
+Estonia,Nepal,Inequality
+Estonia,Poland,Inequality
+Estonia,New Zealand,Inequality
+Estonia,Greece,HumanDev
+Estonia,Lithuania,MoneyPerCapita
+Estonia,Slovakia,MoneyPerCapita
+Finland,Luxembourg,HumanDev
+Finland,France,HumanDev
+Finland,Slovenia,HumanDev
+Finland,Spain,HumanDev
+Finland,Sweden,Inequality
+Finland,Netherlands,Inequality
+Finland,Kazakhstan,Inequality
+Finland,Montenegro,Inequality
+Finland,Slovakia,Inequality
+Finland,Slovenia,Inequality
+France,Luxembourg,HumanDev
+France,Slovenia,HumanDev
+France,Israel,HumanDev
+France,Germany,Inequality
+France,Tajikistan,Inequality
+France,Pakistan,Inequality
+Gabon,Uruguay,Inequality
+Gabon,Turkmenistan,Inequality
+Gabon,Morocco,Inequality
+Gabon,Qatar,Inequality
+Gabon,Turkmenistan,HumanDev
+Gabon,Paraguay,HumanDev
+Gabon,Indonesia,HumanDev
+Gabon,Uruguay,MoneyPerCapita
+Gabon,Romania,MoneyPerCapita
+Germany,Sweden,MoneyPerCapita
+Germany,Singapore,HumanDev
+Germany,New Zealand,HumanDev
+Germany,Sweden,HumanDev
+Germany,Netherlands,HumanDev
+Germany,Tajikistan,Inequality
+Germany,Pakistan,Inequality
+Germany,Niger,Inequality
+Ghana,Nigeria,Inequality
+Ghana,Uruguay,Inequality
+Ghana,Kenya,Inequality
+Ghana,Israel,Inequality
+Ghana,Zambia,HumanDev
+Ghana,Honduras,MoneyPerCapita
+Ghana,Sudan,MoneyPerCapita
+Ghana,Nicaragua,MoneyPerCapita
+Ghana,Pakistan,MoneyPerCapita
+Ghana,Zambia,MoneyPerCapita
+Ghana,Mauritania,MoneyPerCapita
+Greece,Spain,Inequality
+Greece,Portugal,Inequality
+Greece,Romania,Inequality
+Greece,India,Inequality
+Greece,Guinea-Bissau,Inequality
+Greece,Italy,HumanDev
+Greece,Malaysia,MoneyPerCapita
+Greece,Latvia,MoneyPerCapita
+Greece,Hungary,MoneyPerCapita
+Guatemala,Honduras,Inequality
+Guatemala,Lesotho,Inequality
+Guatemala,Namibia,HumanDev
+Guatemala,Morocco,HumanDev
+Guatemala,Nicaragua,HumanDev
+Guatemala,Tajikistan,HumanDev
+Guatemala,Morocco,MoneyPerCapita
+Guatemala,Ukraine,MoneyPerCapita
+Guatemala,Philippines,MoneyPerCapita
+Guinea,Mozambique,HumanDev
+Guinea,Sierra Leone,HumanDev
+Guinea,Mali,HumanDev
+Guinea,Liberia,MoneyPerCapita
+Guinea,Zimbabwe,MoneyPerCapita
+Guinea,Guinea-Bissau,MoneyPerCapita
+Guinea,Mali,MoneyPerCapita
+Guinea,Haiti,MoneyPerCapita
+Guinea,Rwanda,MoneyPerCapita
+Guinea,Tajikistan,MoneyPerCapita
+Guinea,South Sudan,MoneyPerCapita
+Guinea,Sierra Leone,MoneyPerCapita
+Guinea,Niger,MoneyPerCapita
+Guinea,Mozambique,MoneyPerCapita
+Guinea,Somalia,MoneyPerCapita
+Guinea,Togo,MoneyPerCapita
+Guinea,Madagascar,MoneyPerCapita
+Haiti,Rwanda,HumanDev
+Haiti,Lesotho,HumanDev
+Haiti,Senegal,HumanDev
+Haiti,South Sudan,MoneyPerCapita
+Haiti,Liberia,MoneyPerCapita
+Haiti,Papua New Guinea,MoneyPerCapita
+Haiti,Rwanda,MoneyPerCapita
+Haiti,Mozambique,MoneyPerCapita
+Haiti,Nepal,MoneyPerCapita
+Haiti,Mali,MoneyPerCapita
+Haiti,Niger,MoneyPerCapita
+Haiti,Senegal,MoneyPerCapita
+Haiti,Tajikistan,MoneyPerCapita
+Haiti,Zimbabwe,MoneyPerCapita
+Haiti,Sierra Leone,MoneyPerCapita
+Haiti,Madagascar,MoneyPerCapita
+Haiti,Togo,MoneyPerCapita
+Honduras,India,HumanDev
+Honduras,Mauritania,MoneyPerCapita
+Honduras,Nicaragua,MoneyPerCapita
+Honduras,Myanmar,MoneyPerCapita
+Honduras,Pakistan,MoneyPerCapita
+Honduras,Sudan,MoneyPerCapita
+Hungary,Switzerland,Inequality
+Hungary,Malta,Inequality
+Hungary,Luxembourg,Inequality
+Hungary,Kyrgyzstan,Inequality
+Hungary,Portugal,HumanDev
+Hungary,United Arab Emirates,HumanDev
+Hungary,Latvia,HumanDev
+Hungary,Saudi Arabia,HumanDev
+Hungary,Poland,MoneyPerCapita
+Iceland,Oman,MoneyPerCapita
+Iceland,Sweden,HumanDev
+Iceland,Luxembourg,HumanDev
+Iceland,Israel,HumanDev
+Iceland,Norway,Inequality
+Iceland,Ukraine,Inequality
+India,Mali,Inequality
+India,Romania,Inequality
+India,New Zealand,Inequality
+India,Portugal,Inequality
+India,Spain,Inequality
+India,Nigeria,MoneyPerCapita
+India,Philippines,MoneyPerCapita
+India,Myanmar,MoneyPerCapita
+Indonesia,Jordan,Inequality
+Indonesia,Sierra Leone,Inequality
+Indonesia,Sri Lanka,Inequality
+Indonesia,Mongolia,Inequality
+Indonesia,Sudan,Inequality
+Indonesia,Mauritius,Inequality
+Indonesia,Latvia,Inequality
+Indonesia,United Arab Emirates,Inequality
+Indonesia,Tunisia,Inequality
+Indonesia,Paraguay,HumanDev
+Indonesia,Turkmenistan,HumanDev
+Indonesia,Sri Lanka,MoneyPerCapita
+Indonesia,Jordan,MoneyPerCapita
+Indonesia,Namibia,MoneyPerCapita
+Indonesia,Tunisia,MoneyPerCapita
+Indonesia,Mongolia,MoneyPerCapita
+Iran,Mongolia,Inequality
+Iran,Maldives,Inequality
+Iran,Serbia,Inequality
+Iran,Liberia,Inequality
+Iran,Lithuania,Inequality
+Iran,Serbia,HumanDev
+Iran,Venezuela,HumanDev
+Iran,Trinidad and Tobago,HumanDev
+Iran,Sri Lanka,HumanDev
+Iran,Lebanon,HumanDev
+Iran,Turkey,HumanDev
+Iran,Peru,MoneyPerCapita
+Iran,South Africa,MoneyPerCapita
+Iran,Jordan,MoneyPerCapita
+Italy,Nepal,Inequality
+Italy,New Zealand,Inequality
+Italy,Mali,Inequality
+Italy,Poland,Inequality
+Italy,Slovenia,HumanDev
+Italy,Spain,HumanDev
+Italy,New Zealand,MoneyPerCapita
+Italy,Spain,MoneyPerCapita
+Jamaica,Peru,Inequality
+Jamaica,South Sudan,Inequality
+Jamaica,Mozambique,Inequality
+Jamaica,Singapore,Inequality
+Jamaica,Togo,Inequality
+Jamaica,Venezuela,Inequality
+Jamaica,Philippines,Inequality
+Jamaica,Malaysia,Inequality
+Jamaica,Nicaragua,Inequality
+Jamaica,Libya,HumanDev
+Jamaica,Mongolia,HumanDev
+Jamaica,Tunisia,HumanDev
+Jamaica,Suriname,HumanDev
+Jamaica,Thailand,HumanDev
+Jamaica,Morocco,MoneyPerCapita
+Jamaica,Ukraine,MoneyPerCapita
+Jamaica,Paraguay,MoneyPerCapita
+Jordan,Mauritius,Inequality
+Jordan,Latvia,Inequality
+Jordan,Sierra Leone,Inequality
+Jordan,Sudan,Inequality
+Jordan,United Arab Emirates,Inequality
+Jordan,Tunisia,Inequality
+Jordan,Mexico,HumanDev
+Jordan,Ukraine,HumanDev
+Jordan,Sri Lanka,HumanDev
+Jordan,Peru,MoneyPerCapita
+Jordan,Namibia,MoneyPerCapita
+Jordan,Tunisia,MoneyPerCapita
+Jordan,Sri Lanka,MoneyPerCapita
+Kazakhstan,Slovakia,Inequality
+Kazakhstan,Netherlands,Inequality
+Kazakhstan,Montenegro,Inequality
+Kazakhstan,Uruguay,HumanDev
+Kazakhstan,Oman,HumanDev
+Kazakhstan,Panama,HumanDev
+Kazakhstan,Romania,HumanDev
+Kazakhstan,Malaysia,HumanDev
+Kenya,Uruguay,Inequality
+Kenya,Nigeria,Inequality
+Kenya,Nepal,HumanDev
+Kenya,Papua New Guinea,MoneyPerCapita
+Kenya,Zambia,MoneyPerCapita
+Kenya,Yemen,MoneyPerCapita
+Kenya,Senegal,MoneyPerCapita
+Kenya,Nepal,MoneyPerCapita
+Kenya,Kyrgyzstan,MoneyPerCapita
+Kenya,Lesotho,MoneyPerCapita
+Kenya,Tajikistan,MoneyPerCapita
+Kuwait,Latvia,HumanDev
+Kyrgyzstan,Malta,Inequality
+Kyrgyzstan,Senegal,MoneyPerCapita
+Kyrgyzstan,Yemen,MoneyPerCapita
+Kyrgyzstan,Nepal,MoneyPerCapita
+Kyrgyzstan,Zambia,MoneyPerCapita
+Kyrgyzstan,Lesotho,MoneyPerCapita
+Kyrgyzstan,Mauritania,MoneyPerCapita
+Kyrgyzstan,Papua New Guinea,MoneyPerCapita
+Latvia,Sierra Leone,Inequality
+Latvia,Mauritius,Inequality
+Latvia,Tunisia,Inequality
+Latvia,Sudan,Inequality
+Latvia,United Arab Emirates,Inequality
+Latvia,Malaysia,MoneyPerCapita
+Lebanon,Serbia,HumanDev
+Lebanon,Mauritius,HumanDev
+Lebanon,Turkey,HumanDev
+Lebanon,Venezuela,HumanDev
+Lebanon,Trinidad and Tobago,HumanDev
+Lebanon,Mexico,MoneyPerCapita
+Lebanon,Mauritius,MoneyPerCapita
+Lebanon,Turkmenistan,MoneyPerCapita
+Liberia,Trinidad and Tobago,Inequality
+Liberia,Lithuania,Inequality
+Liberia,Maldives,Inequality
+Liberia,Serbia,Inequality
+Liberia,Somalia,MoneyPerCapita
+Liberia,Mozambique,MoneyPerCapita
+Liberia,Mali,MoneyPerCapita
+Liberia,Togo,MoneyPerCapita
+Liberia,Rwanda,MoneyPerCapita
+Liberia,Madagascar,MoneyPerCapita
+Liberia,Sierra Leone,MoneyPerCapita
+Liberia,Niger,MoneyPerCapita
+Libya,Thailand,HumanDev
+Libya,Tunisia,HumanDev
+Libya,Mongolia,HumanDev
+Libya,Venezuela,MoneyPerCapita
+Libya,Serbia,MoneyPerCapita
+Libya,Maldives,MoneyPerCapita
+Lithuania,Serbia,Inequality
+Lithuania,Maldives,Inequality
+Lithuania,Poland,HumanDev
+Lithuania,Saudi Arabia,HumanDev
+Lithuania,Slovakia,HumanDev
+Lithuania,Malta,HumanDev
+Lithuania,United Arab Emirates,HumanDev
+Lithuania,Portugal,HumanDev
+Lithuania,Slovakia,MoneyPerCapita
+Luxembourg,Switzerland,Inequality
+Madagascar,Venezuela,Inequality
+Madagascar,Peru,Inequality
+Madagascar,Zimbabwe,HumanDev
+Madagascar,Papua New Guinea,HumanDev
+Madagascar,Mauritania,HumanDev
+Madagascar,Nigeria,HumanDev
+Madagascar,Mali,MoneyPerCapita
+Madagascar,Togo,MoneyPerCapita
+Madagascar,Somalia,MoneyPerCapita
+Madagascar,Rwanda,MoneyPerCapita
+Madagascar,Zimbabwe,MoneyPerCapita
+Madagascar,Niger,MoneyPerCapita
+Madagascar,South Sudan,MoneyPerCapita
+Madagascar,Mozambique,MoneyPerCapita
+Madagascar,Tajikistan,MoneyPerCapita
+Madagascar,Sierra Leone,MoneyPerCapita
+Maldives,Mongolia,Inequality
+Maldives,Serbia,Inequality
+Maldives,Suriname,HumanDev
+Maldives,South Africa,MoneyPerCapita
+Maldives,Serbia,MoneyPerCapita
+Mali,New Zealand,Inequality
+Mali,Spain,Inequality
+Mali,Poland,Inequality
+Mali,Nepal,Inequality
+Mali,Mozambique,HumanDev
+Mali,Sierra Leone,HumanDev
+Mali,Sierra Leone,MoneyPerCapita
+Mali,Senegal,MoneyPerCapita
+Mali,Zimbabwe,MoneyPerCapita
+Mali,Tajikistan,MoneyPerCapita
+Mali,Niger,MoneyPerCapita
+Mali,Mozambique,MoneyPerCapita
+Mali,Rwanda,MoneyPerCapita
+Mali,Togo,MoneyPerCapita
+Mali,Nepal,MoneyPerCapita
+Mali,Papua New Guinea,MoneyPerCapita
+Mali,South Sudan,MoneyPerCapita
+Malta,Switzerland,Inequality
+Malta,Poland,HumanDev
+Malta,Slovakia,HumanDev
+Malta,United Arab Emirates,HumanDev
+Malta,Saudi Arabia,HumanDev
+Malta,Portugal,HumanDev
+Malta,Trinidad and Tobago,MoneyPerCapita
+Mauritania,Turkey,Inequality
+Mauritania,Senegal,Inequality
+Mauritania,Morocco,Inequality
+Mauritania,Turkmenistan,Inequality
+Mauritania,Qatar,Inequality
+Mauritania,Papua New Guinea,HumanDev
+Mauritania,Zimbabwe,HumanDev
+Mauritania,Nigeria,HumanDev
+Mauritania,Yemen,HumanDev
+Mauritania,Sudan,MoneyPerCapita
+Mauritania,Pakistan,MoneyPerCapita
+Mauritania,Nicaragua,MoneyPerCapita
+Mauritania,Zambia,MoneyPerCapita
+Mauritius,Sierra Leone,Inequality
+Mauritius,Mongolia,Inequality
+Mauritius,Sri Lanka,Inequality
+Mauritius,Sudan,Inequality
+Mauritius,United Arab Emirates,Inequality
+Mauritius,Tunisia,Inequality
+Mauritius,Panama,HumanDev
+Mauritius,Serbia,HumanDev
+Mauritius,Trinidad and Tobago,HumanDev
+Mauritius,Mexico,MoneyPerCapita
+Mexico,Paraguay,Inequality
+Mexico,Turkey,HumanDev
+Mexico,Ukraine,HumanDev
+Mexico,Sri Lanka,HumanDev
+Mexico,Venezuela,HumanDev
+Morocco,Turkmenistan,Inequality
+Morocco,Turkey,Inequality
+Morocco,Senegal,Inequality
+Morocco,Qatar,Inequality
+Morocco,Tajikistan,HumanDev
+Morocco,Namibia,HumanDev
+Morocco,Nicaragua,HumanDev
+Morocco,Philippines,MoneyPerCapita
+Morocco,Paraguay,MoneyPerCapita
+Morocco,Ukraine,MoneyPerCapita
+Mozambique,Togo,Inequality
+Mozambique,Singapore,Inequality
+Mozambique,South Sudan,Inequality
+Mozambique,Philippines,Inequality
+Mozambique,Nicaragua,Inequality
+Mozambique,Venezuela,Inequality
+Mozambique,Sierra Leone,HumanDev
+Mozambique,Rwanda,MoneyPerCapita
+Mozambique,South Sudan,MoneyPerCapita
+Mozambique,Sierra Leone,MoneyPerCapita
+Mozambique,Togo,MoneyPerCapita
+Mozambique,Tajikistan,MoneyPerCapita
+Mozambique,Somalia,MoneyPerCapita
+Mozambique,Niger,MoneyPerCapita
+Mozambique,Zimbabwe,MoneyPerCapita
+Myanmar,Pakistan,HumanDev
+Myanmar,Nicaragua,MoneyPerCapita
+Myanmar,Pakistan,MoneyPerCapita
+Myanmar,Nigeria,MoneyPerCapita
+Namibia,Tajikistan,HumanDev
+Namibia,Nicaragua,HumanDev
+Namibia,Peru,MoneyPerCapita
+Namibia,Tunisia,MoneyPerCapita
+Namibia,Sri Lanka,MoneyPerCapita
+Nepal,New Zealand,Inequality
+Nepal,Spain,Inequality
+Nepal,Poland,Inequality
+Nepal,Yemen,MoneyPerCapita
+Nepal,Zimbabwe,MoneyPerCapita
+Nepal,South Sudan,MoneyPerCapita
+Nepal,Rwanda,MoneyPerCapita
+Nepal,Tajikistan,MoneyPerCapita
+Nepal,Papua New Guinea,MoneyPerCapita
+Nepal,Senegal,MoneyPerCapita
+Netherlands,Switzerland,HumanDev
+Netherlands,New Zealand,HumanDev
+Netherlands,Sweden,Inequality
+Netherlands,Slovakia,Inequality
+New Zealand,Spain,Inequality
+New Zealand,Poland,Inequality
+New Zealand,Singapore,HumanDev
+New Zealand,Sweden,HumanDev
+New Zealand,Spain,MoneyPerCapita
+Nicaragua,Venezuela,Inequality
+Nicaragua,South Sudan,Inequality
+Nicaragua,Togo,Inequality
+Nicaragua,Philippines,Inequality
+Nicaragua,Singapore,Inequality
+Nicaragua,Tajikistan,HumanDev
+Nicaragua,Sudan,MoneyPerCapita
+Nicaragua,Pakistan,MoneyPerCapita
+Niger,Tajikistan,Inequality
+Niger,Togo,MoneyPerCapita
+Niger,South Sudan,MoneyPerCapita
+Niger,Rwanda,MoneyPerCapita
+Niger,Sierra Leone,MoneyPerCapita
+Niger,Somalia,MoneyPerCapita
+Nigeria,Papua New Guinea,HumanDev
+Nigeria,Zimbabwe,HumanDev
+Oman,Romania,HumanDev
+Oman,Uruguay,HumanDev
+Pakistan,Tajikistan,Inequality
+Pakistan,Sudan,MoneyPerCapita
+Panama,Rwanda,Inequality
+Panama,Serbia,HumanDev
+Panama,Trinidad and Tobago,HumanDev
+Panama,Turkey,MoneyPerCapita
+Papua New Guinea,Zimbabwe,Inequality
+Papua New Guinea,Rwanda,Inequality
+Papua New Guinea,Yemen,HumanDev
+Papua New Guinea,Zimbabwe,HumanDev
+Papua New Guinea,Senegal,MoneyPerCapita
+Papua New Guinea,Zimbabwe,MoneyPerCapita
+Papua New Guinea,Tajikistan,MoneyPerCapita
+Papua New Guinea,South Sudan,MoneyPerCapita
+Papua New Guinea,Yemen,MoneyPerCapita
+Paraguay,Turkmenistan,HumanDev
+Paraguay,Ukraine,MoneyPerCapita
+Peru,Venezuela,Inequality
+Peru,South Sudan,Inequality
+Peru,Thailand,HumanDev
+Peru,Tunisia,MoneyPerCapita
+Peru,South Africa,MoneyPerCapita
+Philippines,Togo,Inequality
+Philippines,South Sudan,Inequality
+Philippines,Singapore,Inequality
+Philippines,South Africa,HumanDev
+Philippines,Ukraine,MoneyPerCapita
+Poland,Slovakia,HumanDev
+Poland,United Arab Emirates,HumanDev
+Poland,Saudi Arabia,HumanDev
+Poland,Qatar,HumanDev
+Poland,Portugal,MoneyPerCapita
+Portugal,Spain,Inequality
+Portugal,Romania,Inequality
+Portugal,United Arab Emirates,HumanDev
+Portugal,Saudi Arabia,HumanDev
+Portugal,Slovakia,MoneyPerCapita
+Qatar,Slovakia,HumanDev
+Qatar,Senegal,Inequality
+Qatar,Turkmenistan,Inequality
+Qatar,Uruguay,Inequality
+Romania,Spain,Inequality
+Romania,Uruguay,HumanDev
+Romania,Uruguay,MoneyPerCapita
+Rwanda,Senegal,HumanDev
+Rwanda,Tajikistan,MoneyPerCapita
+Rwanda,Zimbabwe,MoneyPerCapita
+Rwanda,Sierra Leone,MoneyPerCapita
+Rwanda,Togo,MoneyPerCapita
+Rwanda,Senegal,MoneyPerCapita
+Rwanda,South Sudan,MoneyPerCapita
+Saudi Arabia,United Arab Emirates,HumanDev
+Saudi Arabia,Slovakia,HumanDev
+Senegal,Turkmenistan,Inequality
+Senegal,Turkey,Inequality
+Senegal,Thailand,Inequality
+Senegal,Togo,MoneyPerCapita
+Senegal,Yemen,MoneyPerCapita
+Senegal,Sierra Leone,MoneyPerCapita
+Senegal,South Sudan,MoneyPerCapita
+Senegal,Zimbabwe,MoneyPerCapita
+Senegal,Tajikistan,MoneyPerCapita
+Serbia,Venezuela,HumanDev
+Serbia,Trinidad and Tobago,HumanDev
+Serbia,Venezuela,MoneyPerCapita
+Sierra Leone,Sudan,Inequality
+Sierra Leone,Tunisia,Inequality
+Sierra Leone,United Arab Emirates,Inequality
+Sierra Leone,Togo,MoneyPerCapita
+Sierra Leone,Zimbabwe,MoneyPerCapita
+Sierra Leone,Tajikistan,MoneyPerCapita
+Sierra Leone,Somalia,MoneyPerCapita
+Sierra Leone,South Sudan,MoneyPerCapita
+Singapore,Sweden,HumanDev
+Singapore,South Sudan,Inequality
+Singapore,Togo,Inequality
+Slovakia,Sweden,Inequality
+Slovakia,United Arab Emirates,HumanDev
+Slovenia,Sweden,Inequality
+Slovenia,Ukraine,Inequality
+Slovenia,Spain,HumanDev
+Slovenia,Trinidad and Tobago,MoneyPerCapita
+Somalia,Togo,MoneyPerCapita
+Sri Lanka,United Arab Emirates,Inequality
+Sri Lanka,Tunisia,Inequality
+Sri Lanka,Turkey,HumanDev
+Sri Lanka,Venezuela,HumanDev
+Sri Lanka,Tunisia,MoneyPerCapita
+Suriname,Tunisia,HumanDev
+Suriname,Turkmenistan,MoneyPerCapita
+Suriname,Thailand,MoneyPerCapita
+Sweden,Ukraine,Inequality
+Tajikistan,Yemen,MoneyPerCapita
+Tajikistan,Zimbabwe,MoneyPerCapita
+Tajikistan,Togo,MoneyPerCapita
+Thailand,Trinidad and Tobago,Inequality
+Thailand,Turkey,Inequality
+Thailand,Tunisia,HumanDev
+Thailand,Turkmenistan,MoneyPerCapita
+Togo,Zimbabwe,MoneyPerCapita
+Tunisia,United Arab Emirates,Inequality
+Turkey,Turkmenistan,Inequality
+Turkey,Venezuela,HumanDev
+Turkey,Uruguay,MoneyPerCapita
+Yemen,Zimbabwe,HumanDev
+Yemen,Zimbabwe,MoneyPerCapita
+Yemen,Zambia,MoneyPerCapita
+Montenegro,Sweden,Inequality
+Montenegro,Netherlands,Inequality
+Montenegro,Slovakia,Inequality
+Montenegro,Oman,HumanDev
+Montenegro,Romania,HumanDev
+Montenegro,Uruguay,HumanDev
+Montenegro,Turkmenistan,MoneyPerCapita
+Montenegro,Thailand,MoneyPerCapita
+Montenegro,Suriname,MoneyPerCapita
+South Sudan,Togo,Inequality
+South Sudan,Venezuela,Inequality
+South Sudan,Sudan,HumanDev
+South Sudan,Togo,HumanDev
+South Sudan,Tajikistan,MoneyPerCapita
+South Sudan,Zimbabwe,MoneyPerCapita
+South Sudan,Togo,MoneyPerCapita
+Albania,Algeria,Inequality
+Albania,Jordan,Inequality
+Albania,Latvia,Inequality
+Albania,Sudan,Inequality
+Albania,Spain,Inequality
+Albania,Guinea-Bissau,Inequality
+Albania,Sierra Leone,Inequality
+Albania,Australia,Inequality
+Albania,Romania,Inequality
+Albania,Greece,Inequality
+Albania,India,Inequality
+Albania,Azerbaijan,Inequality
+Albania,Portugal,Inequality
+Albania,Armenia,HumanDev
+Albania,Algeria,HumanDev
+Albania,Ecuador,HumanDev
+Albania,China,HumanDev
+Albania,Fiji,HumanDev
+Albania,Peru,HumanDev
+Albania,Bosnia and Herzegovina,HumanDev
+Albania,Thailand,HumanDev
+Albania,Mongolia,HumanDev
+Albania,Libya,HumanDev
+Albania,South Africa,MoneyPerCapita
+Albania,Peru,MoneyPerCapita
+Albania,Namibia,MoneyPerCapita
+Albania,Jordan,MoneyPerCapita
+Albania,Ecuador,MoneyPerCapita
+Albania,Bosnia and Herzegovina,MoneyPerCapita
+Albania,Indonesia,MoneyPerCapita
+Albania,Egypt,MoneyPerCapita
+Albania,Iran,MoneyPerCapita
+Albania,Tunisia,MoneyPerCapita
+Central African Republic,Niger,HumanDev
+Central African Republic,Comoros,MoneyPerCapita
+Central African Republic,Guinea,MoneyPerCapita
+Central African Republic,Mozambique,MoneyPerCapita
+Central African Republic,Democratic Republic of the Congo,MoneyPerCapita
+Central African Republic,Somalia,MoneyPerCapita
+Central African Republic,Niger,MoneyPerCapita
+Central African Republic,Eritrea,MoneyPerCapita
+Central African Republic,Togo,MoneyPerCapita
+Central African Republic,Guinea-Bissau,MoneyPerCapita
+Central African Republic,Liberia,MoneyPerCapita
+Central African Republic,Madagascar,MoneyPerCapita
+Central African Republic,Sierra Leone,MoneyPerCapita
+Djibouti,Mauritania,Inequality
+Djibouti,Thailand,Inequality
+Djibouti,Morocco,Inequality
+Djibouti,Turkey,Inequality
+Djibouti,Senegal,Inequality
+Djibouti,Turkmenistan,Inequality
+Djibouti,South Sudan,HumanDev
+Djibouti,Sudan,HumanDev
+Djibouti,Togo,HumanDev
+Djibouti,Yemen,MoneyPerCapita
+Djibouti,Kenya,MoneyPerCapita
+Djibouti,Zambia,MoneyPerCapita
+Djibouti,Mauritania,MoneyPerCapita
+Djibouti,Kyrgyzstan,MoneyPerCapita
+Djibouti,Papua New Guinea,MoneyPerCapita
+Djibouti,Nepal,MoneyPerCapita
+Djibouti,Senegal,MoneyPerCapita
+Djibouti,Lesotho,MoneyPerCapita
+Ecuador,Togo,Inequality
+Ecuador,Philippines,Inequality
+Ecuador,Malaysia,Inequality
+Ecuador,Mozambique,Inequality
+Ecuador,Singapore,Inequality
+Ecuador,Nicaragua,Inequality
+Ecuador,Peru,HumanDev
+Ecuador,Libya,HumanDev
+Ecuador,Thailand,HumanDev
+Ecuador,Fiji,HumanDev
+Ecuador,Mongolia,HumanDev
+Ecuador,Sri Lanka,MoneyPerCapita
+Ecuador,Namibia,MoneyPerCapita
+Ecuador,Indonesia,MoneyPerCapita
+Ecuador,Jordan,MoneyPerCapita
+Ecuador,Egypt,MoneyPerCapita
+Ecuador,Mongolia,MoneyPerCapita
+Ecuador,Peru,MoneyPerCapita
+Ecuador,Tunisia,MoneyPerCapita
+Eritrea,Guinea-Bissau,HumanDev
+Eritrea,South Sudan,MoneyPerCapita
+Eritrea,Niger,MoneyPerCapita
+Eritrea,Haiti,MoneyPerCapita
+Eritrea,Liberia,MoneyPerCapita
+Eritrea,Togo,MoneyPerCapita
+Eritrea,Zimbabwe,MoneyPerCapita
+Eritrea,Mozambique,MoneyPerCapita
+Eritrea,Sierra Leone,MoneyPerCapita
+Eritrea,Guinea,MoneyPerCapita
+Eritrea,Mali,MoneyPerCapita
+Eritrea,Somalia,MoneyPerCapita
+Eritrea,Tajikistan,MoneyPerCapita
+Eritrea,Madagascar,MoneyPerCapita
+Eritrea,Rwanda,MoneyPerCapita
+Eritrea,Guinea-Bissau,MoneyPerCapita
+Fiji,Nigeria,Inequality
+Fiji,Uruguay,Inequality
+Fiji,Israel,Inequality
+Fiji,Kenya,Inequality
+Fiji,Ghana,Inequality
+Fiji,Libya,HumanDev
+Fiji,Jamaica,HumanDev
+Fiji,Peru,HumanDev
+Fiji,Mongolia,HumanDev
+Fiji,Thailand,HumanDev
+Fiji,Tunisia,HumanDev
+Fiji,Jamaica,MoneyPerCapita
+Fiji,Paraguay,MoneyPerCapita
+Guinea-Bissau,Jordan,Inequality
+Guinea-Bissau,Portugal,Inequality
+Guinea-Bissau,Sudan,Inequality
+Guinea-Bissau,Mauritius,Inequality
+Guinea-Bissau,Latvia,Inequality
+Guinea-Bissau,Sierra Leone,Inequality
+Guinea-Bissau,Indonesia,Inequality
+Guinea-Bissau,Haiti,MoneyPerCapita
+Guinea-Bissau,Tajikistan,MoneyPerCapita
+Guinea-Bissau,Liberia,MoneyPerCapita
+Guinea-Bissau,Mozambique,MoneyPerCapita
+Guinea-Bissau,Madagascar,MoneyPerCapita
+Guinea-Bissau,Sierra Leone,MoneyPerCapita
+Guinea-Bissau,Togo,MoneyPerCapita
+Guinea-Bissau,Mali,MoneyPerCapita
+Guinea-Bissau,Niger,MoneyPerCapita
+Guinea-Bissau,South Sudan,MoneyPerCapita
+Guinea-Bissau,Rwanda,MoneyPerCapita
+Guinea-Bissau,Somalia,MoneyPerCapita
+Guinea-Bissau,Zimbabwe,MoneyPerCapita
+Guinea-Bissau,Senegal,MoneyPerCapita
+Israel,Nigeria,Inequality
+Israel,Kenya,Inequality
+Israel,Uruguay,Inequality
+Israel,Luxembourg,HumanDev
+Lesotho,Rwanda,HumanDev
+Lesotho,Senegal,HumanDev
+Lesotho,Nepal,MoneyPerCapita
+Lesotho,Tajikistan,MoneyPerCapita
+Lesotho,Zambia,MoneyPerCapita
+Lesotho,Senegal,MoneyPerCapita
+Lesotho,Papua New Guinea,MoneyPerCapita
+Lesotho,Yemen,MoneyPerCapita
+Malaysia,Philippines,Inequality
+Malaysia,Singapore,Inequality
+Malaysia,Nicaragua,Inequality
+Malaysia,Togo,Inequality
+Malaysia,South Sudan,Inequality
+Malaysia,Mozambique,Inequality
+Malaysia,Panama,HumanDev
+Malaysia,Trinidad and Tobago,HumanDev
+Malaysia,Serbia,HumanDev
+Malaysia,Mauritius,HumanDev
+Mongolia,Tunisia,Inequality
+Mongolia,United Arab Emirates,Inequality
+Mongolia,Sri Lanka,Inequality
+Mongolia,Thailand,HumanDev
+Mongolia,Tunisia,HumanDev
+Mongolia,Peru,HumanDev
+Mongolia,Tunisia,MoneyPerCapita
+Mongolia,Sri Lanka,MoneyPerCapita
+Mongolia,Namibia,MoneyPerCapita
+Sudan,Tunisia,Inequality
+Sudan,United Arab Emirates,Inequality
+Sudan,Togo,HumanDev
+Sudan,Zambia,MoneyPerCapita
