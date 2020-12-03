@@ -1,0 +1,177 @@
+DST,Ano,Sexo,N-spec,spec,Total
+clamidia,2012,M,33617,52979,86596
+clamidia,2013,M,31750,55547,87297
+clamidia,2014,M,29160,58019,87179
+clamidia,2015,M,27407,57738,85145
+clamidia,2016,M,26380,59500,85880
+clamidia,2017,M,23739,63245,86984
+clamidia,2018,M,26881,68001,94882
+clamidia,2019,M,29068,72361,101429
+clamidia,2012,F,74188,47532,121720
+clamidia,2013,F,71911,50701,122612
+clamidia,2014,F,68983,53327,122310
+clamidia,2015,F,64026,51817,115843
+clamidia,2016,F,61003,55511,116514
+clamidia,2017,F,57556,59496,117052
+clamidia,2018,F,59172,62981,122153
+clamidia,2019,F,62068,63999,126067
+gonorreia,2012,M,195,18996,19191
+gonorreia,2013,M,328,22382,22710
+gonorreia,2014,M,332,27514,27846
+gonorreia,2015,M,492,31684,32176
+gonorreia,2016,M,727,26630,27357
+gonorreia,2017,M,1120,32017,33137
+gonorreia,2018,M,2653,38499,41152
+gonorreia,2019,M,4786,46694,51480
+gonorreia,2012,F,402,7315,7717
+gonorreia,2013,F,425,8056,8481
+gonorreia,2014,F,438,8874,9312
+gonorreia,2015,F,479,8709,9188
+gonorreia,2016,F,631,8599,9230
+gonorreia,2017,F,965,10597,11562
+gonorreia,2018,F,1738,13200,14938
+gonorreia,2019,F,2664,16527,19191
+herpes genital,2012,M,139,12188,12327
+herpes genital,2013,M,346,12451,12797
+herpes genital,2014,M,391,12143,12534
+herpes genital,2015,M,341,12048,12389
+herpes genital,2016,M,491,11443,11934
+herpes genital,2017,M,431,11347,11778
+herpes genital,2018,M,474,11369,11843
+herpes genital,2019,M,427,11719,12146
+herpes genital,2012,F,491,20060,20551
+herpes genital,2013,F,1056,20455,21511
+herpes genital,2014,F,1207,20389,21596
+herpes genital,2015,F,1084,20483,21567
+herpes genital,2016,F,1411,19691,21102
+herpes genital,2017,F,1324,19821,21145
+herpes genital,2018,F,1411,20373,21784
+herpes genital,2019,F,1328,21010,22338
+Mycoplasma genitalium,2012,M,-,-,-
+Mycoplasma genitalium,2013,M,-,-,-
+Mycoplasma genitalium,2014,M,-,-,-
+Mycoplasma genitalium,2015,M,0,61,61
+Mycoplasma genitalium,2016,M,1,151,152
+Mycoplasma genitalium,2017,M,3,304,307
+Mycoplasma genitalium,2018,M,16,1232,1248
+Mycoplasma genitalium,2019,M,21,3634,3655
+Mycoplasma genitalium,2012,F,-,-,-
+Mycoplasma genitalium,2013,F,-,-,-
+Mycoplasma genitalium,2014,F,-,-,-
+Mycoplasma genitalium,2015,F,2,16,18
+Mycoplasma genitalium,2016,F,3,50,53
+Mycoplasma genitalium,2017,F,5,111,116
+Mycoplasma genitalium,2018,F,8,538,546
+Mycoplasma genitalium,2019,F,15,1628,1643
+Não especificada,2012,M,146,46973,47119
+Não especificada,2013,M,383,42228,42611
+Não especificada,2014,M,332,39703,40035
+Não especificada,2015,M,375,36596,36971
+Não especificada,2016,M,570,31946,32516
+Não especificada,2017,M,548,29021,29569
+Não especificada,2018,M,485,27646,28131
+Não especificada,2019,M,409,25333,25742
+Não especificada,2012,F,92,7067,7159
+Não especificada,2013,F,308,6873,7181
+Não especificada,2014,F,336,7085,7421
+Não especificada,2015,F,357,5182,5539
+Não especificada,2016,F,434,4073,4507
+Não especificada,2017,F,329,3757,4086
+Não especificada,2018,F,226,2974,3200
+Não especificada,2019,F,167,2375,2542
+DIP,2012,M,411,6621,7032
+DIP,2013,M,908,6884,7792
+DIP,2014,M,873,6704,7577
+DIP,2015,M,782,6231,7013
+DIP,2016,M,812,6086,6898
+DIP,2017,M,843,5853,6696
+DIP,2018,M,965,5613,6578
+DIP,2019,M,933,5466,6399
+DIP,2012,F,358,14607,14965
+DIP,2013,F,624,14079,14703
+DIP,2014,F,626,13924,14550
+DIP,2015,F,550,13552,14102
+DIP,2016,F,668,12396,13064
+DIP,2017,F,568,11450,12018
+DIP,2018,F,555,10622,11177
+DIP,2019,F,446,9570,10016
+DIP (clamidia),2012,M,5,493,498
+DIP (clamidia),2013,M,2,565,567
+DIP (clamidia),2014,M,3,521,524
+DIP (clamidia),2015,M,4,557,561
+DIP (clamidia),2016,M,2,525,527
+DIP (clamidia),2017,M,9,513,522
+DIP (clamidia),2018,M,3,508,511
+DIP (clamidia),2019,M,11,512,523
+DIP (clamidia),2012,F,21,1635,1656
+DIP (clamidia),2013,F,31,1614,1645
+DIP (clamidia),2014,F,22,1554,1576
+DIP (clamidia),2015,F,27,1486,1513
+DIP (clamidia),2016,F,28,1367,1395
+DIP (clamidia),2017,F,20,1304,1324
+DIP (clamidia),2018,F,22,1272,1294
+DIP (clamidia),2019,F,18,1063,1081
+DIP (gonorreia),2012,M,0,115,115
+DIP (gonorreia),2013,M,1,148,149
+DIP (gonorreia),2014,M,2,149,151
+DIP (gonorreia),2015,M,0,156,156
+DIP (gonorreia),2016,M,3,138,141
+DIP (gonorreia),2017,M,1,177,178
+DIP (gonorreia),2018,M,7,209,216
+DIP (gonorreia),2019,M,5,251,256
+DIP (gonorreia),2012,F,6,362,368
+DIP (gonorreia),2013,F,9,375,384
+DIP (gonorreia),2014,F,15,413,428
+DIP (gonorreia),2015,F,14,379,393
+DIP (gonorreia),2016,F,7,294,301
+DIP (gonorreia),2017,F,6,313,319
+DIP (gonorreia),2018,F,9,402,411
+DIP (gonorreia),2019,F,10,461,471
+sifilis,2012,M,17,2715,2732
+sifilis,2013,M,40,2987,3027
+sifilis,2014,M,42,4108,4150
+sifilis,2015,M,41,4942,4983
+sifilis,2016,M,71,5536,5607
+sifilis,2017,M,58,6537,6595
+sifilis,2018,M,55,6685,6740
+sifilis,2019,M,59,7213,7272
+sifilis,2012,F,10,272,282
+sifilis,2013,F,26,292,318
+sifilis,2014,F,29,268,297
+sifilis,2015,F,24,312,336
+sifilis,2016,F,19,312,331
+sifilis,2017,F,17,397,414
+sifilis,2018,F,29,474,503
+sifilis,2019,F,23,661,684
+verrugas genitais,2012,M,624,40662,41286
+verrugas genitais,2013,M,976,41501,42477
+verrugas genitais,2014,M,980,39905,40885
+verrugas genitais,2015,M,960,37635,38595
+verrugas genitais,2016,M,1217,34552,35769
+verrugas genitais,2017,M,994,32521,33515
+verrugas genitais,2018,M,1189,31977,33166
+verrugas genitais,2019,M,1070,28789,29859
+verrugas genitais,2012,F,801,33771,34572
+verrugas genitais,2013,F,1214,33327,34541
+verrugas genitais,2014,F,1114,31723,32837
+verrugas genitais,2015,F,1055,29356,30411
+verrugas genitais,2016,F,1271,26433,27704
+verrugas genitais,2017,F,1058,24789,25847
+verrugas genitais,2018,F,1038,22966,24004
+verrugas genitais,2019,F,894,20396,21290
+outras,2012,M,175,14498,14673
+outras,2013,M,265,14132,14397
+outras,2014,M,337,14076,14413
+outras,2015,M,282,13377,13659
+outras,2016,M,311,12181,12492
+outras,2017,M,286,11433,11719
+outras,2018,M,300,11311,11611
+outras,2019,M,363,11345,11708
+outras,2012,F,304,11404,11708
+outras,2013,F,397,10975,11372
+outras,2014,F,494,10519,11013
+outras,2015,F,356,10120,10476
+outras,2016,F,582,9827,10409
+outras,2017,F,775,10412,11187
+outras,2018,F,781,10642,11423
+outras,2019,F,742,11545,12287
