@@ -5,14 +5,14 @@ Os slides da proposta pode sem vistos em [slides](./slides/etapa-4.pdf).
 
 ## Modelo Conceitual Atualizado
 
-![conceitual-1](images/conceitual-1.png)
+![conceitual-1](assets/conceitual-1.png)
 #### Modelo conceitual para os dados de infecções por HIV no mundo.
 
-![conceitual-2](images/conceitual-2.png)
+![conceitual-2](assets/conceitual-2.png)
 #### Modelo conceitual para infecções de DSTs no Reino Unido.
 
 ### Modelos Lógicos Atualizados
-![logico](images/logico.png)
+![logico](assets/logico.png)
 #### Modelos lógicos utilizados para o projeto
 Nas tabelas Testagem, Tratamento, Prevenção e Legislação, muitas colunas foram omitidas devido à sua quantidade.
 
