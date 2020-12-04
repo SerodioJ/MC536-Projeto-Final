@@ -16,11 +16,15 @@ Os slides da proposta pode sem vistos em [slides](./slides/etapa-4.pdf).
 
 ### Modelos Lógicos Atualizados
 
-### Modelos lógicos utilizados para o projeto
+### Modelo Lógico Relacional
 
-![logico](assets/logico.png)
+![logico-relacional](assets/logico-relacional.png)
 
 Nas tabelas Testagem, Tratamento, Prevenção e Legislação, muitas colunas foram omitidas devido à sua quantidade.
+
+### Modelo Lógico de Grafos
+
+![logico-grafo](assets/logico-grafo.png)
 
 ## Programa de extração e conversão de dados atualizado
 
