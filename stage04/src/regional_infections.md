@@ -44,7 +44,7 @@ CALL gds.graph.create(
 )
 ~~~
 
-Utilização do Louvain para agrupar países em comunidades utilizando as arestas de fronteiras para isso. Retonar um arquivo CSV com os (`label`, `name`, `region`, `infections`, `communityId`) de cada país e será utilizado do *Cytoscape* para vizualização do grafo.
+Utilização do Louvain para agrupar países em comunidades utilizando as arestas de fronteiras para isso. Retorna um arquivo CSV com os (`label`, `name`, `region`, `infections`, `communityId`) de cada país e será utilizado do *Cytoscape* para visualização do grafo.
 
 ~~~cypher
 CALL gds.louvain.stream('neighbourhoodGraph')

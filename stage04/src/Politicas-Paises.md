@@ -3,18 +3,21 @@
 ## Preparando o grafo
 
 ### Adicionando dados socioeconômicos de cada país (1 nó = país)
+
 ~~~cypher
-LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/SerodioJ/MC536-Projeto-Final/master/data/Filtered%20Data/countries.csv' AS line
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/SerodioJ/MC536-Projeto-Final/master/stage04/data/processed/countries.csv' AS line
 CREATE (:Country {country: line.country, label: line.label, wb_class: line.wb_class, gini: line.gini, gdbPPPperCapita: line.gdbPPPperCapita, hdi: line.hdi, populationTotal: line.populationTotal})
 ~~~
 
 ### Adicionando dados das políticas de cada país (1 nó = 1 relação país-política)
+
 ~~~cypher
-LOAD CSV with headers FROM 'https://raw.githubusercontent.com/SerodioJ/MC536-Projeto-Final/master/data/Filtered%20Data/country_policies.csv' AS line
+LOAD CSV with headers FROM 'https://raw.githubusercontent.com/SerodioJ/MC536-Projeto-Final/master/stage04/data/processed/country_policies.csv' AS line
 CREATE (pol: Pol {country: line.country, politica: line.policyId, isNumeric: line.isNumeric, value: line.value})
 ~~~
 
 ### Criando arestas que ligam dois países pelo número de políticas compartilhadas
+
 ~~~cypher
 match (CP1:Pol)
 match (CP:Pol)
@@ -25,20 +28,22 @@ MERGE (c1)-[t:Politicas]->(c)
 ON CREATE SET t.weight=1
 ON MATCH SET t.weight=t.weight+1
 ~~~
-O grago gerado pera query acuma foi utilizado também para comparar os países como grupos
+
+O grafo gerado pela query acima foi utilizado também para comparar os países como grupos
 
 ### Adicionando dados das classificações socioeconômicas
+
 ~~~cypher
-LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/SerodioJ/MC536-Projeto-Final/master/data/Filtered%20Data/countries.csv' AS line
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/SerodioJ/MC536-Projeto-Final/master/stage04/data/processed/countries.csv' AS line
 CREATE (:Classe {wb_class: line.wb_class})
 
-load csv with headers from  
-'https://raw.githubusercontent.com/SerodioJ/MC536-Projeto-Final/master/data/Filtered%20Data/countries.csv' as csv   
+load csv with headers from 'https://raw.githubusercontent.com/SerodioJ/MC536-Projeto-Final/master/stage04/data/processed/countries.csv' as csv
 merge (c:Classe {wb_class: csv.wb_class})
 on match set c.wb_class =  csv.wb_class
 ~~~
 
 ### Relacionando os nós "Classe" pela média de políticas públicas
+
 ~~~cypher
 match (cl1: Classe)
 match (cl2: Classe)

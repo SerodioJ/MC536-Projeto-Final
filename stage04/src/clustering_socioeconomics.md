@@ -1,4 +1,4 @@
-# Classificação dos países por meio de dados socioeconomicos em rede de grafos
+# Classificação dos países por meio de dados socioeconômicos em rede de grafos
 
 ## Preparando o grafo
 
