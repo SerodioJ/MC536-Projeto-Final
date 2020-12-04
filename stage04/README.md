@@ -14,7 +14,7 @@ Os slides da proposta pode sem vistos em [slides](./slides/etapa-4.pdf).
 
 ![conceitual-2](assets/conceitual-2.png)
 
-### Modelos Lógicos Atualizados
+## Modelos Lógicos Atualizados
 
 ### Modelo Lógico Relacional
 
