@@ -1,0 +1,171 @@
+﻿label,name,region,infections,communityId
+AUS,Australia,Western Pacific,1000.0,4
+BHS,Bahamas,Americas,-1,7
+BHR,Bahrain,Eastern Mediterranean,-1,8
+BRB,Barbados,Americas,-1,10
+CPV,Cabo Verde,Africa,-1,25
+COM,Comoros,Africa,-1,30
+CUB,Cuba,Americas,2200.0,34
+ARM,Armenia,Europe,-1,53
+AZE,Azerbaijan,Europe,690.0,53
+GEO,Georgia,Europe,-1,53
+IRN,Iran,Eastern Mediterranean,4400.0,53
+TUR,Turkey,Europe,-1,53
+DOM,Dominican Republic,Americas,2900.0,56
+HTI,Haiti,Americas,7200.0,56
+BLZ,Belize,Americas,-1,57
+CRI,Costa Rica,Americas,870.0,57
+SLV,El Salvador,Americas,1100.0,57
+GTM,Guatemala,Americas,1300.0,57
+HND,Honduras,Americas,1100.0,57
+MEX,Mexico,Americas,-1,57
+NIC,Nicaragua,Americas,-1,57
+PAN,Panama,Americas,-1,57
+USA,United States of America,Americas,39000.0,57
+CAN,Canada,Americas,-1,57
+ISL,Iceland,Europe,-1,59
+JAM,Jamaica,Americas,1800.0,65
+BGD,Bangladesh,South-East Asia,-1,70
+BTN,Bhutan,South-East Asia,-1,70
+KHM,Cambodia,Western Pacific,1200.0,70
+CHN,China,Western Pacific,-1,70
+IND,India,South-East Asia,-1,70
+KAZ,Kazakhstan,Europe,3100.0,70
+KGZ,Kyrgyzstan,Europe,970.0,70
+LAO,Lao People's Democratic Republic,Western Pacific,900.0,70
+MMR,Myanmar,South-East Asia,13000.0,70
+NPL,Nepal,South-East Asia,1100.0,70
+PAK,Pakistan,Eastern Mediterranean,19000.0,70
+TJK,Tajikistan,Europe,1400.0,70
+THA,Thailand,South-East Asia,9500.0,70
+TKM,Turkmenistan,Europe,-1,70
+VNM,Viet Nam,Western Pacific,9600.0,70
+AFG,Afghanistan,Eastern Mediterranean,1100.0,70
+MNG,Mongolia,Western Pacific,-1,70
+UZB,Uzbekistan,Europe,4500.0,70
+BLR,Belarus,Europe,2300.0,72
+PRK,Democratic People's Republic of Korea,South-East Asia,-1,72
+EST,Estonia,Europe,-1,72
+FIN,Finland,Europe,-1,72
+LVA,Latvia,Europe,-1,72
+LTU,Lithuania,Europe,-1,72
+NOR,Norway,Europe,-1,72
+POL,Poland,Europe,-1,72
+KOR,Republic of Korea,Western Pacific,-1,72
+RUS,Russian Federation,Europe,-1,72
+SWE,Sweden,Europe,-1,72
+MDG,Madagascar,Africa,4400.0,78
+MDV,Maldives,South-East Asia,-1,79
+MLT,Malta,Europe,-1,81
+MUS,Mauritius,Africa,620.0,83
+NZL,New Zealand,Western Pacific,-1,91
+ARG,Argentina,Americas,6100.0,92
+BOL,Bolivia,Americas,1100.0,92
+BRA,Brazil,Americas,50000.0,92
+CHL,Chile,Americas,4900.0,92
+COL,Colombia,Americas,12000.0,92
+PRY,Paraguay,Americas,1200.0,92
+PER,Peru,Americas,3900.0,92
+SUR,Suriname,Americas,-1,92
+URY,Uruguay,Americas,-1,92
+VEN,Venezuela,Americas,6000.0,92
+ECU,Ecuador,Americas,2700.0,92
+GUY,Guyana,Americas,-1,92
+DZA,Algeria,Africa,1800.0,94
+CMR,Cameroon,Africa,23000.0,94
+TCD,Chad,Africa,6000.0,94
+COG,Congo,Africa,7200.0,94
+GNQ,Equatorial Guinea,Africa,4600.0,94
+GAB,Gabon,Africa,2100.0,94
+KEN,Kenya,Africa,54000.0,94
+LBY,Libya,Eastern Mediterranean,630.0,94
+NER,Niger,Africa,1400.0,94
+NGA,Nigeria,Africa,100000.0,94
+SOM,Somalia,Eastern Mediterranean,-1,94
+TUN,Tunisia,Eastern Mediterranean,600.0,94
+SSD,South Sudan,Africa,18000.0,94
+CAF,Central African Republic,Africa,6400.0,94
+DJI,Djibouti,Eastern Mediterranean,-1,94
+ERI,Eritrea,Africa,-1,94
+ETH,Ethiopia,Africa,18000.0,94
+SDN,Sudan,Eastern Mediterranean,3500.0,94
+BRN,Brunei Darussalam,Western Pacific,-1,99
+IDN,Indonesia,South-East Asia,-1,99
+PNG,Papua New Guinea,Western Pacific,3100.0,99
+TLS,Timor-Leste,South-East Asia,-1,99
+MYS,Malaysia,Western Pacific,5200.0,99
+PHL,Philippines,Western Pacific,10000.0,102
+BIH,Bosnia and Herzegovina,Europe,-1,108
+BGR,Bulgaria,Europe,-1,108
+HRV,Croatia,Europe,-1,108
+GRC,Greece,Europe,-1,108
+HUN,Hungary,Europe,-1,108
+MDA,Republic of Moldova,Europe,940.0,108
+ROU,Romania,Europe,810.0,108
+SRB,Serbia,Europe,-1,108
+SVK,Slovakia,Europe,-1,108
+MKD,North Macedonia,Europe,-1,108
+UKR,Ukraine,Europe,14000.0,108
+MNE,Montenegro,Europe,-1,108
+ALB,Albania,Europe,-1,108
+BEN,Benin,Africa,4000.0,112
+BFA,Burkina Faso,Africa,3300.0,112
+CIV,Côte d'Ivoire,Africa,19000.0,112
+GMB,Gambia,Africa,2200.0,112
+GHA,Ghana,Africa,21000.0,112
+GIN,Guinea,Africa,6200.0,112
+LBR,Liberia,Africa,2700.0,112
+MLI,Mali,Africa,-1,112
+MRT,Mauritania,Africa,-1,112
+SEN,Senegal,Africa,1600.0,112
+SLE,Sierra Leone,Africa,5600.0,112
+TGO,Togo,Africa,5500.0,112
+GNB,Guinea-Bissau,Africa,2500.0,112
+SGP,Singapore,Western Pacific,-1,115
+AGO,Angola,Africa,26000.0,119
+BWA,Botswana,Africa,12000.0,119
+BDI,Burundi,Africa,2800.0,119
+COD,Democratic Republic of the Congo,Africa,29000.0,119
+MOZ,Mozambique,Africa,150000.0,119
+NAM,Namibia,Africa,8200.0,119
+RWA,Rwanda,Africa,6400.0,119
+ZAF,South Africa,Africa,280000.0,119
+UGA,Uganda,Africa,67000.0,119
+TZA,United Republic of Tanzania,Africa,90000.0,119
+ZMB,Zambia,Africa,58000.0,119
+ZWE,Zimbabwe,Africa,50000.0,119
+LSO,Lesotho,Africa,13000.0,119
+MWI,Malawi,Africa,42000.0,119
+SWZ,Eswatini,Africa,10000.0,119
+LKA,Sri Lanka,South-East Asia,-1,120
+EGY,Egypt,Eastern Mediterranean,2500.0,124
+JOR,Jordan,Eastern Mediterranean,-1,124
+KWT,Kuwait,Eastern Mediterranean,-1,124
+LBN,Lebanon,Eastern Mediterranean,-1,124
+OMN,Oman,Eastern Mediterranean,-1,124
+QAT,Qatar,Eastern Mediterranean,-1,124
+SAU,Saudi Arabia,Eastern Mediterranean,-1,124
+SYR,Syrian Arab Republic,Eastern Mediterranean,-1,124
+ARE,United Arab Emirates,Eastern Mediterranean,-1,124
+YEM,Yemen,Eastern Mediterranean,970.0,124
+ISR,Israel,Europe,-1,124
+TTO,Trinidad and Tobago,Americas,-1,130
+AUT,Austria,Europe,-1,150
+CZE,Czechia,Europe,-1,150
+DNK,Denmark,Europe,-1,150
+FRA,France,Europe,6500.0,150
+DEU,Germany,Europe,-1,150
+ITA,Italy,Europe,3300.0,150
+LUX,Luxembourg,Europe,-1,150
+NLD,Netherlands,Europe,640.0,150
+SVN,Slovenia,Europe,-1,150
+CHE,Switzerland,Europe,-1,150
+BEL,Belgium,Europe,-1,150
+FJI,Fiji,Western Pacific,-1,157
+JPN,Japan,Western Pacific,-1,161
+CYP,Cyprus,Europe,-1,166
+IRL,Ireland,Europe,-1,166
+MAR,Morocco,Eastern Mediterranean,1000.0,166
+PRT,Portugal,Europe,-1,166
+GBR,United Kingdom of Great Britain and Northern Ireland,Europe,-1,166
+ESP,Spain,Europe,3600.0,166
