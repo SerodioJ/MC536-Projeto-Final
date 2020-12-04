@@ -3,12 +3,14 @@
 ## Preparando o grafo
 
 Adicionando dados socioeconômicos de cada país (1 nó = país)
+
 ~~~cypher
-LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/SerodioJ/MC536-Projeto-Final/master/data/Filtered%20Data/countries.csv' AS line
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/SerodioJ/MC536-Projeto-Final/master/stage04/data/processed/countries.csv' AS line
 CREATE (:Country {name: line.country, region: line.region, gini: line.gini, gdb: line.gdbPPPperCapita, hdi: line.hdi, pop: line.populationTotal})
 ~~~
 
 Criando arestas que ligam dois países com valor de gini próximos entre si (diferença menor que 10) e quanto mais próximo, maior é o peso.
+
 ~~~cypher
 MATCH (a: Country)
 MATCH (b: Country)
@@ -18,6 +20,7 @@ SET i.weight = 10 - abs(toInteger(a.gini) - toInteger(b.gini))
 ~~~
 
 Criando arestas que ligam dois países com valor de IDH próximos entre si (diferença menor que 10) e quanto mais próximo, maior é o peso.
+
 ~~~cypher
 MATCH (a: Country)
 MATCH (b: Country)
@@ -27,6 +30,7 @@ SET h.weight = 10 - abs(toInteger(a.hdi) - toInteger(b.hdi))
 ~~~
 
 Criando arestas que ligam dois países com valor de PIB per Capita próximos entre si (diferença menor que 10) e quanto mais próximo, maior é o peso.
+
 ~~~cypher
 MATCH (a: Country)
 MATCH (b: Country)
@@ -35,14 +39,13 @@ CREATE (a)-[m :MoneyPerCapita]->(b)
 SET m.weight = 1000 - abs(toInteger(a.gdb) - toInteger(b.gdb))
 ~~~
 
-
 ## Utilizando Louvain para agrupar países com dados socioeconômicos parecidos
 
 Utilizamos uma biblioteca no *Neo4j* com o algoritmo de Louvain para tentar agrupar diferentes países de acordo com dados socioeconômicos semelhantes enviando os nós e as arestas desejadas com ou sem peso, retornando o resultado dentro do próprio nó para facilitar a importação no *Cytoscape*.
 
 ### Classificação utilizando os valores de Gini e IDH de um país
 
-Utilizamos esses dois valores, pois temos exemplos de países com IDH muito alto, porém tem uma desigualdade econômica alta como os EUA e a Austrália. 
+Utilizamos esses dois valores, pois temos exemplos de países com IDH muito alto, porém tem uma desigualdade econômica alta como os EUA e a Austrália.
 
 ~~~cypher
 CALL gds.graph.create(
@@ -119,7 +122,7 @@ SET c.ew = communityId
 
 ### Classificação de países puramente monetária
 
-Nesse último caso, estamos procurando classificar países de acordo com o aspectos puramente monetários com os valores de *Gini* e *IDH per Capita PPP*. 
+Nesse último caso, estamos procurando classificar países de acordo com o aspectos puramente monetários com os valores de *Gini* e *IDH per Capita PPP*.
 
 ~~~cypher
 CALL gds.graph.create(
