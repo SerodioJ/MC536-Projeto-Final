@@ -2,7 +2,7 @@
 
 ## Slides da Apresentação da Etapa
 
-Os slides da proposta pode sem vistos em [slides](./slides/etapa-final.pdf).
+Os slides da estapa podem ser vistos em [slides](./slides/etapa-final.pdf).
 
 ## Modelo Conceitual Atualizado
 
