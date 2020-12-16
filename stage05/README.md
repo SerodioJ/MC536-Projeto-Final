@@ -1,6 +1,6 @@
 # Etapa 05 - Entrega Final
 
-## Slides da Apresentação da Proposta
+## Slides da Apresentação da Etapa
 
 Os slides da proposta pode sem vistos em [slides](./slides/etapa-final.pdf).
 
