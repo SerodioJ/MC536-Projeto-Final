@@ -22,6 +22,64 @@ Os slides da estapa podem ser vistos em [slides](./slides/etapa-final.pdf).
 Visualizar possíveis correlações entre o número de casos de DSTs, aspectos socioeconômicos e políticas públicas, a fim de determinar fatores chave no controle de novos casos.
 
 ## Detalhamento do Projeto
+
+Na query [RendaxInfecções](notebook/sql/RendaxInfeccoes.ipynb), a ideia era de criar um registro de casos de infecções de HIV em função do país (em sigla) em um determinado ano e sabendo dos dados socioeconômicos (PIB per Capita PPC, Gini* e IDH), com o Gini modificado, já que tanto para o IDH e para o PIB temos que quanto maior o valor melhor é o país, porém o Gini em sua definição é pior a medida que seu valor aumenta, então para condizer com os demais dados modificamos ao calcular (1-Gini). Nessa query todos os valores socioeconômicos foram normalizados através da fórmula (valor - mínimo) / (máximo - mínimo) como pode ver no código abaixo, sendo que os valores máximos e mínimos são encontrados no conjunto de todos os países.
+
+~~~sql
+CREATE VIEW socioeconomicoXinfeccoes AS
+SELECT T.ano, T.sigla,
+       (1.0 - T.gini - PNPG.minConvGini)/(PNPG.maxConvGini - PNPG.minConvGini) Corr_Gini,
+       CAST(T.pibpercapita - PNPG.minpib AS DOUBLE) / CAST(PNPG.maxpib - PNPG.minpib AS DOUBLE) Norm_PIB,
+       (T.taxaInfeccoes - PNI.minInf)/(PNI.maxInf-PNI.minInf) Norm_infeccoes,
+       (T.IDH - PNPG.minIDH) / (PNPG.maxIDH - PNPG.minIDH) Norm_IDH
+FROM tabelaInicial T, parNormInfeccoes PNI, parNormPibGini PNPG
+WHERE T.ano = PNI.ano
+ORDER BY ano, corr_gini, norm_pib
+~~~ 
+
+Na query [RegiãoxInfecções](notebook/sql/RegiaoxInfeccoes.ipynb) procuramos o total de infecções de HIV de uma certa região definida pela OMS (subcontinentes) em relação ao total de infecções no mundo em um dado ano.
+
+~~~sql
+CREATE VIEW RegiaoxInfeccoes AS
+SELECT DP.ano, P.regiao, 
+       CAST(SUM(DP.quantidade) AS DOUBLE) / CAST(SUM(DG.quantidade) AS DOUBLE)*100.0 Infeccoes
+FROM Pais P, DST DP, DST DG
+WHERE P.sigla = DP.regiao 
+      AND DG.ano = DP.ano 
+      AND DP.quantidade IS NOT NULL
+GROUP BY P.regiao, DP.ano
+ORDER BY DP.ano,
+         P.regiao;
+
+SELECT * FROM RegiaoxInfeccoes;
+~~~ 
+
+Em [GrupoXInfecção](notebook/sql/gruposXinfeccao.ipynb), buscamos apontar características de cada grupo (sendo que essa classificação foi resultado da aplicação de Louvain em um grafo que liga países com Gini e IDH parecidos e considerando o peso das arestas nessa clusterização) através dos valores médios de IDH e do Gini, lembrando que tivemos o cuidado de selecionar apenas grupos com pelo menos 2 membros, pois um grupo de um único país significa que provavelmente não conseguimos retirar dados desse país para agrupá-lo com outros países.
+
+~~~sql 
+CREATE VIEW GrupoXinfeccao AS
+SELECT G.id id, count(*) number_of_countries, 
+       AVG(P.idh) idh, AVG(P.gini) gini,
+       sum(I.qtde) qtde_infeccoes
+FROM Pais AS P, Grupo AS G, Infeccoes AS I
+WHERE P.sigla = I.regiao AND P.nome = G.pais AND I.ano=2014
+GROUP BY G.id
+HAVING number_of_countries > 1
+ORDER BY idh, gini desc;
+~~~
+
+Em [clustering_socioeconomics](src/clustering_socioeconomics.md), tentamos contruir grafos onde os países são vértices e arestas conectam países cujos valores de um dado socioeconômico têm diferença menor que um MAX e o peso dessa aresta era então (MAX-diferença). Assim, aplicando Louvain nesse grafo para diferentes combinações de tipos de arestas (PIB, IDH ou Gini) e considerando peso ou não, analisamos os resultados finais e concluímos que o a combinação de arestas de Gini combinadas com o de IDH e considerando o peso das arestas levou a um resultado mais satisfatório. No seguinte recorte, vemos a criação de uma aresta conectando dois países com valores de Gini próximos com o MAX=10.
+
+~~~cypher
+MATCH (a: Country)
+MATCH (b: Country)
+WHERE a.name < b.name AND a.gini IS NOT NULL AND b.gini IS NOT NULL AND abs(toInteger(a.gini) - toInteger(b.gini)) < 10
+CREATE (a)-[i:Inequality]->(b)
+SET i.weight = 10 - abs(toInteger(a.gini) - toInteger(b.gini))
+~~~
+
+
+
 > Apresente aqui detalhes da análise. Nesta seção ou na seção de Resultados podem aparecer destaques de código como indicado a seguir. Note que foi usada uma técnica de highlight de código, que envolve colocar o nome da linguagem na abertura de um trecho com `~~~`, tal como `~~~python`.
 > Os destaques de código devem ser trechos pequenos de poucas linhas, que estejam diretamente ligados a alguma explicação. Não utilize trechos extensos de código. Se algum código funcionar online (tal como um Jupyter Notebook), aqui pode haver links. No caso do Jupyter, preferencialmente para o Binder abrindo diretamente o notebook em questão.
 
