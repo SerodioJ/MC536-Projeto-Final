@@ -15,7 +15,7 @@
 Os slides da estapa podem ser vistos em [slides](./slides/etapa-final.pdf).
 
 ## Resumo do Projeto
-> Texto resumindo o projeto.
+O projeto tem como finalidade a visualização de correlações entre o número de casos de DSTs, aspectos socioeconômicos de países e suas políticas públicas de combate a essas doenças. Para isso, foram utilizados principalmente dados da [OMS](https://apps.who.int/gho/athena/api/GHO), [UNAIDS Laws and Policies](https://lawsandpolicies.unaids.org) e [DBpedia](http://dbpedia.org/data/), que foram tratados com notebooks em Python e relacionados em queries SQL e, posteriormente, em grafos. Os resultados, apesar das dificuldades encontradas na execução do projeto, permitiram análises interessantes das possíveis relações entre casos de HIV e localização geográfica, políticas públicas e características socioeconômicas.
 
 ## Motivação e Contexto
 
@@ -68,6 +68,37 @@ HAVING number_of_countries > 1
 ORDER BY idh, gini desc;
 ~~~
 
+Em [policies-query](notebook/sql/policies-query.ipynb), foram feitas queries que relacionavam características socioeconômicas de países com suas políticas públicas de prevenção, tratamento e teste de DSTs. Mais especificamente, buscou-se relacionar o número total de camisinhas distribuídos com a existência ou não de uma política nacional de distribuição por país; a porcentagem de países de cada região que tem uma política nacional de distribuição de preservativos; a porcentagem de países por região que tem uma estratégia ou plano dedicado a AIDS; e a porcentagem de países por classificação de renda que permite o início do tratamento antiretroviral de pacientes no mesmo dia que são diagnosticados com HIV. Com essas análise, buscava-se entender se existem relações entre as classficações de países e como são suas políticas de combate a DSTs.
+
+~~~sql
+SELECT Pr.country, 
+    CAST(Pr."Number of male condoms distributed in the previous calendar year: total" AS FLOAT) / Pa.populacao  AS "Número de camisinhas masculinas por habitante", 
+    CAST(Pr."Number of female condoms distributed in the previous calendar year: total" AS FLOAT) / Pa.populacao  AS "Número de camisinhas femininas por habitante",  
+    CAST(Pr."Number of male condoms distributed in the previous calendar year: total" + Pr."Number of female condoms distributed in the previous calendar year: total" AS FLOAT) / Pa.populacao  AS "Número de camisinhas por habitante",
+    Pr."National condom strategy/plan",
+    Pr."Prosecution/punishment of individuals for carrying condoms"
+FROM Prevencao Pr, Pais Pa WHERE Pr.country = Pa.nome AND (Pr."Number of male condoms distributed in the previous calendar year: total" IS NOT NULL OR Pr."Number of female condoms distributed in the previous calendar year: total" IS NOT NULL);
+~~~
+
+~~~sql
+SELECT APR.regiao, APR."Tem uma política ou estratégia nacional de distribuição de camisinhas?", APR.Quantidade, CAST(APR.Quantidade*100 AS FLOAT) / PPR."Quantidade de paises na região" "Porcentagem de países" 
+FROM AgrupadoPorRegiao APR, PaisesPorRegiao PPR 
+WHERE APR.regiao = PPR.regiao;
+~~~
+
+~~~sql
+SELECT PNA.regiao, PNA."National strategy/policy guiding AIDS response", PNA.Quantidade, CAST(PNA.QUANTIDADE*100 AS FLOAT) / PPR."Quantidade de paises na região" "Porcentagem de países"
+FROM PoliticaNacionalAIDS PNA, PaisesPorRegiao PPR 
+WHERE PPR.regiao = PNA.regiao;
+~~~
+
+~~~sql
+SELECT ART.classificacaoRenda, ART."Possible to start ART on the same day as HIV diagnosis", ART.QUANTIDADE "Número de países", CAST(ART.QUANTIDADE*100 AS FLOAT) / CR.QUANTIDADE "Porcentagem de países"
+FROM PossibleToStartART ART, (SELECT classificacaoRenda, COUNT(*) quantidade FROM Pais GROUP BY classificacaoRenda) CR
+WHERE ART.classificacaoRenda = CR.classificacaoRenda;
+~~~
+
+
 Em [clustering_socioeconomics](src/clustering_socioeconomics.md), tentamos contruir grafos onde os países são vértices e arestas conectam países cujos valores de um dado socioeconômico têm diferença menor que um MAX e o peso dessa aresta era então (MAX-diferença). Assim, aplicando Louvain nesse grafo para diferentes combinações de tipos de arestas (PIB, IDH ou Gini) e considerando peso ou não, analisamos os resultados finais e concluímos que o a combinação de arestas de Gini combinadas com o de IDH e considerando o peso das arestas levou a um resultado mais satisfatório. No seguinte recorte, vemos a criação de uma aresta conectando dois países com valores de Gini próximos com o MAX=10.
 
 ~~~cypher
@@ -78,6 +109,18 @@ CREATE (a)-[i:Inequality]->(b)
 SET i.weight = 10 - abs(toInteger(a.gini) - toInteger(b.gini))
 ~~~
 
+Em [Politicas-Paises](src/Politicas-Paises.md), foi construido um grafo que liga cada país com arestas cujo peso é o número de políticas públicas compartilhadas: por exemplo, se dois países proíbem a venda de anticoncepcionais a menores de 18 anos, essa política será considerado como compartilhada e, portanto, contabilizada na aresta que liga esses países. Com isso, buscava-se visualizar se países de uma mesma região, classificação socioeconômica ou com IDH próximos, por exemplo, têm abordagens similares em relação a DSTs, o que poderia ser indicado pelo número de políticas. O código em cypher que relaciona os paises pelo número de políticas é mostrado abaixo.
+
+~~~cypher
+match (CP1:Pol)
+match (CP:Pol)
+MATCH (c1:Country)
+MATCH (c:Country)
+WHERE c.country <> c1.country AND c.country = CP.country AND c1.country = CP1.country AND CP1.country <> CP.country AND CP.politica IS NOT NULL AND CP1.politica IS NOT NULL AND CP.politica = CP1.politica AND CP.value = CP1.value
+MERGE (c1)-[t:Politicas]->(c)
+ON CREATE SET t.weight=1
+ON MATCH SET t.weight=t.weight+1
+~~~
 
 
 > Apresente aqui detalhes da análise. Nesta seção ou na seção de Resultados podem aparecer destaques de código como indicado a seguir. Note que foi usada uma técnica de highlight de código, que envolve colocar o nome da linguagem na abertura de um trecho com `~~~`, tal como `~~~python`.
@@ -128,12 +171,38 @@ Dessa classificação, obtemos a seguinte tabela, onde podemos ver os diferentes
 
 ![tabela grupo](assets/tabela%20grupos.png)
 
+Em relação políticas públicas, os resultados principais das análises de [distribuição de preervativos](./saida/camisinha.png), [políticas focadas em HIV](./assets/tabela_politica_hiv.png) e [tratamento antiretroviral](./assets/tabela_tratamento.png) podem ser vistos nas imagens, e o de número de camisinhas distribuidas pode ser melhor visto no [csv](saida/numero-de-camisinhas-politicas.csv) pela extensão da tabela. Em relação à distribuição de preservativos, nota-se claramente que em todas as regiões, mais países possuem políticas de distribuição de camisinhas, e a região cuja diferença na quantidade de países é menor é o leste do Mediterrâneo. Pelo gráfico, o sudeste asiático também não tem países que não possuam essa política, mas é possível que esse resultado seja devido à falta desse dado para alguns países. 
+
+![distribuição de preervativos](./saida/camisinha.png)
+
+Em relação à política de resposta à HIV, nota-se que a maioria dos países tem uma política própria para o vírus e, se não, muitos têm uma política mais abrangente que integra esse combate. Em relação a resultados de destaque, nota-se que pelo menos 10% dos países do leste do Mediterrâneto e cerca de 13% dos do Pacífico não possuem políticas voltadas a HIV, enquanto apenas 2% dos países africanos não o possuem. 
+
+![políticas focadas em HIV](./assets/tabela_politica_hiv.png)
+
+Sobre o tratamento antiretroviral, nota-se também que não houve tanta diferença entre as categorias: a maioria dos países de todas as categorias permitem o início do tratamento no dia do diagnóstivo. O baixo número de países de alta renda que o permitem, cerca de 20%, poderia se explicado pela falta desses dados disponíveis para esses países, dado que apenas 30% deles possuiam essa informação.     
+
+![tratamento antiretroviral](./assets/tabela_tratamento.png)
+
+Finalmente, nota-se na [tabela do número de camisinhas](saida/numero-de-camisinhas-politicas.csv) por habitante que todos os países disponibilizam mais camisinhas masculinas, e que a maioria deles possui uma política pública de distribução. Valores interessantes são o da Gana, com 47 camisinhas por habitante; Malásia, com 28; Uruguai, com 7,7; Lesoto com 14 e Irlanda, com 0,04 camisinhas por habitante. No entanto, não é possível tirar conclusões sobre a eficácia das políticas por esses dados, considerando que não é possível estabelecer um número "ideal" de camisinhas por habitante, e esse número pode ser menos relevante na mudança do número de casos de DSTs que polítcas como campanhas de educação da população, facilidade de acesso aos preservaticos e de diagnóstico e tratamento das doenças, por exemplo. Por fim, uma análise geral dos resltados das queries de políticas públicas mostra que não foi possível relacionar diretamente a prevalência de certas políticas com alguma região ou  grupo de países, o exemplo: a grande maioria dos países possuia as mesmas políticas públicas, de modo que é difícil relacionar a presença ou ausência de uma ao número de casos de HIV, por exemplo. Além disso, a falta de dados de alguns países, especialmente os de maior IDH, impossibilitou comparações que poderiam ser interessantes, como a comparação das políticas dos países mais e menos ricos e os números de casos de DSTs normalizados, por exemplo.
+
+Os resultado da query em grafo de agrupamento de países cujas políticas públicas sejam semelhantes é mostrado na [imagem](./assets/total.png). Pelo número de países e arestas, não é possível ver o nome de cada país, mas foram agrupados em relação à sua renda, sendo os nos cantos superior esquerdo, superior direito, inferior esquerdo e inferior direito países de renda alta, de renda baixa-média, renda baixa e média-alta, respectivamente. Vértices com coloração mais arroxeada têm IDH mais elevado, e arestas mais avermelhadas representam maior número de políticas coincidentes.
+Nota-se que os países com renda mais alta compartilham relativamente poucas políticas com países de outros grupos, como evidenciado pela cor clara de suas arestas. Além disso, há poucos países do grupo que têm muitas políticas iguais, o que pode ser visto pelas poucas arestas vermelhas na [imagem](./assets/highincome.png). Por outro lado, nota-se uma grande coincidência de políticas entre países de rendas baixa e baixa-média, e um grande número de países de baixa renda com políticas semelhantes, como pode ser visto em [lowincome.png](./assets/lowincome.png). Entrtanto, não é possível dizer se esses números realmente significam que alguns países compartilham mais políticas que os outros ou se países com menos políticas compartilhadas somente não tinham seus dados completos.
+
+![paises x política](./assets/total.png)
+
+![paises x política - renda alta](./assets/highincome.png)
+
+![paises x política - renda baixa](./assets/lowincome.png)
 
 > Apresente os resultados da forma mais rica possível, com gráficos e tabelas. Mesmo que o seu código rode online em um notebook, copie para esta parte a figura estática. A referência a código e links para execução online pode ser feita aqui ou na seção de detalhamento do projeto (o que for mais pertinente).
 > A discussão dos resultados também pode ser feita aqui na medida em que os resultados são apresentados ou em seção independente. Aspectos importantes a serem discutidos: É possível tirar conclusões dos resultados? Quais? Há indicações de direções para estudo? São necessários trabalhos mais profundos?
 
 ## Conclusões
-> Apresente aqui as conclusões finais do trabalho e as lições aprendidas.
+Expandimos mais o nosso conhecimento sobre o poder de análises de bancos de dados não relacionais, especialmente o de grafos. Durante o projeto, vimos a possibilidade de explorar os grafos com algoritmos mais complexos de análise, especialmente o Louvain e o PageRank, para encontrar novas informações acerca da rede. Também aprendemos sobre o poder de ferramentas de visualização como o Cytoscape para ilustrar o banco de dados de grafos, sendo que de outra maneira seria muito mais complexo e difícil de entender.
+
+Por fim, outro aprendizado importante foi encontrar maneiras de lidar com problemas recorrentes de falta de dados ou até partes quebradas dentro do banco de dados (como foi o caso do DBpedia, onde páginas de alguns países ou não tinham algumas informações que queríamos - nesse caso adicionamos apenas um null dentro do csv - ou quando a página no formato JSON estava quebrado - nesse caso, alguns países foram resolvidos ao tentar realizar as queries em XML).
+
+Portanto conseguimos cumprir em parte os objetivos finais, já que tivemos que nos adaptar em relação à falta de dados para expandir o estudo além do caso de HIV no mundo, e também apresentamos sinais de progresso em relação ao uso dos recursos disponíveis como a DBpedia e de ferramentas, como o SQL e o Cytoscape, e também na capacidade de gerir problemas frequentes ao trabalhar com bancos de dados, como a falta de informações (ausência) e estruturas inconsistentes (que é permitida em modelos mais flexíveis como o JSON e grafos).
 
 ## Modelo Conceitual Final
 
