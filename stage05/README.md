@@ -109,6 +109,26 @@ Na fase final, concluímos que não valeria a pena tentar analizar os dados sobr
 > Relatar o processo para se alcançar os resultados é tão importante quanto os resultados.
 
 ## Resultados e Discussão
+
+O gráfico de ***Quantidade de infecções por HIV em relação ao valor mundial por região*** mostra o número de casos em uma dada região em relação ao total de infecções no mundo no ano de 2014. Podemos ver que a grande maioria, quase 80% dos casos de HIV no mundo, ocorreram no continente da África, depois vem a Ásia e as Américas, ambos com aproximadamente 20%.
+
+![grafico Regiao](saida/regiao.png)
+
+No gráfico ***Dados socioeconomicos x Novas Infecções*** (valores de 2014), procuramos ilustrar uma relação direta entre dados socioeconomicos e a quantidade de novas infecções. Para isso, multiplicamos pegamos o IDH e o "Gini" (1-Gini), ambos os valores foram normalizados, e plotamos o gráfico de novas infecções (normalizada) em função de IDH*(1-Gini). Podemos ver que há uma certa tendência de quanto maior o produto entre "Gini" e IDH, menor é a quantidade de infecções, o que era de se esperar, já que quanto maior o IDH e menor é a desigualdade econômica, esperamos que a saúde da população seja melhor que países com IDH mais baixo e desigualdade econômica mais alta.
+
+![grafico Socioeconomico x Infecções](saida/gini_pib_infeccoes.png)
+
+Realizando os testes de clusterização dos países de acordo com valores próximos de dados socioeconômicos, chegamos a conclusão de que o melhor agrupamento foi com a utilização de arestas que ligam países com IDH próximos e outro tipo de aresta que liga países com Gini próximo e considerando os pesos das arestas (quanto mais próximo o valor maior é o peso) no algoritmo de Louvain. Os resultados das classificações podem ser vistas nas duas figuras a seguir, que são grafos onde diferentes cores representam grupos distintos: o primeiro grafo é o grafo que conecta países de acordo com o Gini; o segundo é conectado com valores de IDH próximos.
+
+![grafo gini](assets/grafo_gini_final.png)
+
+![grafo idh](assets/grafo_idh_final.png)
+
+Dessa classificação, obtemos a seguinte tabela, onde podemos ver os diferentes grupos e os valores médios de IDH e de Gini do grupo, o número de infecções apresentado a seguir não é muito relevante, pois seria necessário considerando o total de população. Outro ponto relevante dessa análise é de que conseguimos agrupar apenas 75 países do 170 países iniciais, os problemas que podem ter levado a isso é a falta de informações extraídas na DBpedia (um dos fatores apontados anteriormente são os formatos de JSON e de XML quebrados como o que ocorreu na página do Reino Unido) e também pode ser devido a características peculiares de alguns países que os tornaram únicos, como a grande parte dos países de maior IDH tem Gini (desigualdade econômica) baixo, mas temos casos como os EUA e a Austrália que são contraexemplos. Abaixo vemos a tabela resultante.
+
+![tabela grupo](assets/tabela%20grupos.png)
+
+
 > Apresente os resultados da forma mais rica possível, com gráficos e tabelas. Mesmo que o seu código rode online em um notebook, copie para esta parte a figura estática. A referência a código e links para execução online pode ser feita aqui ou na seção de detalhamento do projeto (o que for mais pertinente).
 > A discussão dos resultados também pode ser feita aqui na medida em que os resultados são apresentados ou em seção independente. Aspectos importantes a serem discutidos: É possível tirar conclusões dos resultados? Quais? Há indicações de direções para estudo? São necessários trabalhos mais profundos?
 
@@ -201,7 +221,7 @@ Na estap 4, utilizou-se mais um notebook para tratar dados. Os dados tratados s�
 
 
 
-
+---------------------------------------------------------------------------------------------------
 
 # Versão velha!
 
