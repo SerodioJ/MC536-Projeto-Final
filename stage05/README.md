@@ -1,6 +1,6 @@
 # Etapa Final
 
-## Projeto `<Título do Projeto>`
+## Projeto Final de MC536
 
 ## Equipe Cavaleiros da Query Estruturada
 
