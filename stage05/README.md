@@ -140,6 +140,7 @@ MERGE (c1)-[t:Politicas]->(c)
 ON CREATE SET t.weight=1
 ON MATCH SET t.weight=t.weight+1
 ~~~
+
 Em [regional_infections](src/regional_infections.md) construímos um grafo conectando países vizinhos e então colocamos cada nó com tamanho proporcional ao seu número de novas infecções de HIV no ano de 2015, a fim de verificar em que regiões há uma grande concentração desses novos casos.
 
 ~~~cypher
@@ -183,7 +184,16 @@ Dessa classificação, obtemos a seguinte tabela, onde podemos ver os diferentes
 
 Em relação políticas públicas, os resultados principais das análises de [distribuição de preervativos](./saida/camisinha.png), [políticas focadas em HIV](./assets/tabela_politica_hiv.png) e [tratamento antiretroviral](./assets/tabela_tratamento.png) podem ser vistos nas imagens, e o de número de camisinhas distribuidas pode ser melhor visto no [csv](saida/numero-de-camisinhas-politicas.csv) pela extensão da tabela. Em relação à distribuição de preservativos, nota-se claramente que em todas as regiões, mais países possuem políticas de distribuição de camisinhas, e a região cuja diferença na quantidade de países é menor é o leste do Mediterrâneo. Pelo gráfico, o sudeste asiático também não tem países que não possuam essa política, mas é possível que esse resultado seja devido à falta desse dado para alguns países. 
 
-![distribuição de preervativos](./saida/camisinha.png)
+![distribuição de preservativos](./saida/camisinha.png)
+
+Como resultado da query de políticas com o agrupamento de países de acordo com sua classificação pelo World Bank, obteve-se uma [tabela](saida/politicas-x-renda.csv) que mostra o número médio de políticas para cada um desses 4 grupos. Nessa tabela observa-se uma quantidade média de políticas reduzida nos países de alta renda se comparada com os demais grupos.
+
+![politicasXrenda](assets/politicasXrenda.png)
+
+Partindo agora de uma análise geográfica, verificou-se que a África Subsaariana é a região com maior número de novos casos, como pode ser visto na imagem abaixo, e a América do Sul e o Sudeste Asiático ficam quase empatados em segundo lugar. Porém, cabe destacar que muitos países não possuem o número de novos casos divulgados, o que prejudica essa análise.
+
+![infec_AFR](assets/regional_infections_AFR.png)
+
 
 Em relação à política de resposta à HIV, nota-se que a maioria dos países tem uma política própria para o vírus e, se não, muitos têm uma política mais abrangente que integra esse combate. Em relação a resultados de destaque, nota-se que pelo menos 10% dos países do leste do Mediterrâneto e cerca de 13% dos do Pacífico não possuem políticas voltadas a HIV, enquanto apenas 2% dos países africanos não o possuem. 
 
